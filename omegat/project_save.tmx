@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;br/&gt; It is free, and always will be.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225908Z" creationid="miurahr" creationdate="20210602T225908Z">
+        <seg>&lt;br/&gt;これは無料であり、常に利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;br/&gt;There are more themes available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230055Z" creationid="miurahr" creationdate="20210602T230055Z">
+        <seg>&lt;br/&gt;他にも使用可能なテーマがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;br/&gt;We encourage you to do it - you don't even have to ask permission.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225905Z" creationid="miurahr" creationdate="20210602T225905Z">
+        <seg>&lt;br/&gt;許可を得る必要もありませんので、ぜひご利用ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;h3&gt;Add a {title} here?&lt;/h3&gt;The point you create here will be &lt;b&gt;visible for everyone&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224805Z" creationid="miurahr" creationdate="20210602T224805Z">
@@ -22,10 +46,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;h3&gt;Add to your home screen&lt;/h3&gt;You can easily add this website to your smartphone home screen for a native feel.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225857Z" creationid="miurahr" creationdate="20210602T225857Z">
+        <seg>&lt;h3&gt;ホーム画面に追加する&lt;/h3&gt;このサイトはスマートフォンのホーム画面に簡単に追加でき、ネイティブな雰囲気になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;h3&gt;An Open Map&lt;/h3&gt;&lt;p&gt;Wouldn't it be cool if there was a single map, which everyone could freely use and edit?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225109Z" creationid="miurahr" creationdate="20210602T225109Z">
         <seg>&lt;h3&gt;オープン地図&lt;/h3&gt;&lt;p&gt;誰もが自由に使用して編集できる1つのマップがあればクールではないでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;Embed on your website&lt;/h3&gt;Please, embed this map into your website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225903Z" creationid="miurahr" creationdate="20210602T225903Z">
+        <seg>&lt;h3&gt;お客様のWebサイトに埋め込む&lt;/h3&gt;この地図をお客様のWebサイトに埋め込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;More thematic maps?&lt;/h3&gt;Do you enjoy collecting geodata?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230053Z" creationid="miurahr" creationdate="20210602T230053Z">
+        <seg>&lt;h3&gt;より多くの主題図&lt;/h3&gt;ジオデータの収集は楽しいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;Share this map&lt;/h3&gt; Share this map by copying the link below and sending it to friends and family:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225843Z" creationid="miurahr" creationdate="20210602T225745Z">
+        <seg>&lt;h3&gt;このマップを共有&lt;/h3&gt;このマップを共有するには、次のリンクをコピーして、友人や家族に送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p&gt;All data is provided by &lt;a href='https://osm.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;, freely reusable under &lt;a href='https://osm.org/copyright' target='_blank'&gt;the Open DataBase License&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225631Z" creationid="miurahr" creationdate="20210602T225631Z">
+        <seg>&lt;p&gt;すべてのデータは&lt;a href='https://osm.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;によって提供され、&lt;a href='https://osm.org/copyright' target='_blank'&gt; Open DataBaseライセンス&lt;/a&gt;の下で自由に再利用できます。&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add or change questions to this map theme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225916Z" creationid="miurahr" creationdate="20210602T225916Z">
+        <seg>このマップテーマに質問を追加または変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add picture</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223607Z" creationid="miurahr" creationdate="20210602T223607Z">
         <seg>写真の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the data is from there, and your answers and corrections are added there as well.&lt;/p&gt;&lt;p&gt;A ton of people and application already use OpenStreetMap: &lt;a href='https://maps.me/' target='_blank'&gt;Maps.me&lt;/a&gt;, &lt;a href='https://osmAnd.net' target='_blank'&gt;OsmAnd&lt;/a&gt;, but also the maps at Facebook, Instagram, Apple-maps and Bing-maps are (partly) powered by OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225606Z" creationid="miurahr" creationdate="20210602T225606Z">
+        <seg>すべてのデータは、OSMからのものであり、あなたの答えと訂正もOSMに追加されます。&lt;/p&gt;&lt;p&gt;すでに多くの人やアプリケーションがOpenStreetMapを使っています:&lt;a href='https://maps.me/' target='_blank'&gt;Maps.me&lt;/a&gt;や、&lt;a href='https://osmAnd.net' target='_blank'&gt;OsmAnd&lt;/a&gt;など。Fさらに、acebook、Instagram、Apple-maps、Bing-mapsも(部分的に)OpenStreetMapを利用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attribution notice</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225615Z" creationid="miurahr" creationdate="20210602T225615Z">
+        <seg>帰属通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +194,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224855Z" creationid="miurahr" creationdate="20210602T224855Z">
         <seg>言語を選択します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the 'add to home screen button' in the URL bar to do this.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225900Z" creationid="miurahr" creationdate="20210602T225900Z">
+        <seg>これを行うには、URLバーの「ホーム画面に追加ボタン」をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +262,106 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit this theme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225915Z" creationid="miurahr" creationdate="20210602T225915Z">
+        <seg>このテーマを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the 'add new POI' button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225948Z" creationid="miurahr" creationdate="20210602T225948Z">
+        <seg>[新しいPOIの追加]ボタンを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the 'geolocate-me' button (mobile only)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230000Z" creationid="miurahr" creationdate="20210602T230000Z">
+        <seg>[geolocate-me]ボタンを有効にする(モバイルのみ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the layer control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225931Z" creationid="miurahr" creationdate="20210602T225931Z">
+        <seg>レイヤコントロールを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the login button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225918Z" creationid="miurahr" creationdate="20210602T225918Z">
+        <seg>ログインボタンを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the search bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225920Z" creationid="miurahr" creationdate="20210602T225920Z">
+        <seg>検索バーを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable this layer to add a point</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224849Z" creationid="miurahr" creationdate="20210602T224849Z">
         <seg>このレイヤで点を追加できるようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you change something here, it'll be reflected in those applications too - after their next update!&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225612Z" creationid="miurahr" creationdate="20210602T225612Z">
+        <seg>ここで何かを変更すると、次の更新後にアプリケーションにも反映されます。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want a custom-built quest, request it in the issue tracker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230148Z" creationid="miurahr" creationdate="20210602T230148Z">
+        <seg>カスタムビルドのクエストが必要な場合は、問題追跡ツールで要請してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include current location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230039Z" creationid="miurahr" creationdate="20210602T230039Z">
+        <seg>現在の場所を含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the current background choice &lt;b&gt;{name}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230028Z" creationid="miurahr" creationdate="20210602T230028Z">
+        <seg>現在の背景の選択肢&lt;b&gt;{name}&lt;/b&gt;を含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the current layer choices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230035Z" creationid="miurahr" creationdate="20210602T230035Z">
+        <seg>現在のレイヤの選択肢を含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Link copied to clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225912Z" creationid="miurahr" creationdate="20210602T225912Z">
+        <seg>クリップボードにコピーされたリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MapComplete has been built by {contributors} and &lt;a href='https://github.com/pietervdvn/MapComplete/graphs/contributors' target='_blank'&gt;{hiddenCount} more contributors&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225838Z" creationid="miurahr" creationdate="20210602T225736Z">
+        <seg>MapCompleteは{contributors}と、&lt;a href='https://github.com/pietervdvn/MapComplete/graphs/contributors' target='_blank'&gt; {hiddenCount}人の貢献者&lt;/a&gt;によって開発されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MapComplete is an OpenStreetMap-viewer and editor, which shows you information about a specific theme.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224456Z" creationid="miurahr" creationdate="20210602T224456Z">
@@ -218,6 +418,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224527Z" creationid="miurahr" creationdate="20210602T224527Z">
         <seg>何も見つかりませんでした…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On top of that, everyone can freely add new data and fix errors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225446Z" creationid="miurahr" creationdate="20210602T225438Z">
+        <seg>さらに、誰でも自由に新しいデータを追加したり、間違いを修正したりすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show the welcome message popup and associated tabs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225929Z" creationid="miurahr" creationdate="20210602T225929Z">
+        <seg>ウェルカムメッセージのポップアップと関連するタブを表示します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip this question</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224538Z" creationid="miurahr" creationdate="20210602T224538Z">
@@ -342,10 +558,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start with the layer control expanded</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225940Z" creationid="miurahr" creationdate="20210602T225940Z">
+        <seg>レイヤコントロールを展開して開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks for helping out!&lt;/span&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224351Z" creationid="miurahr" creationdate="20210602T224351Z">
         <seg>ご協力ありがとうございます!&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks for sharing!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225913Z" creationid="miurahr" creationdate="20210602T225913Z">
+        <seg>共有してくれてありがとう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current visible data has edits made by {contributors}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225642Z" creationid="miurahr" creationdate="20210602T225642Z">
+        <seg>現在表示されているデータには、{contributors}によって編集が行われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current visible data has edits made by {contributors} and {hiddenCount} more contributors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225714Z" creationid="miurahr" creationdate="20210602T225714Z">
+        <seg>現在表示されているデータには、{contributors}および、{hiddenCount}人の貢献者が編集したものが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +622,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The map data can be used for free (with &lt;a href='https://osm.org/copyright' target='_blank'&gt;attribution and publication of changes to that data&lt;/a&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225430Z" creationid="miurahr" creationdate="20210602T225430Z">
+        <seg>地図データは、(&lt;a href='https://osm.org/copyright' target='_blank'&gt;データ変更の公開と帰属表示&lt;/a&gt;をすれば)無料で利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The more people using this, the more valuable it becomes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225910Z" creationid="miurahr" creationdate="20210602T225910Z">
+        <seg>これを使う人が増えれば増えるほど、それは価値が増します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The name of this {category} is $$$</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224944Z" creationid="miurahr" creationdate="20210602T224944Z">
@@ -390,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme maintained by {author}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225636Z" creationid="miurahr" creationdate="20210602T225636Z">
+        <seg>{author} によって管理されるテーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, all those websites with different, small and incompatible maps (which are always outdated) wouldn't be needed anymore.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;a href='https://OpenStreetMap.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;&lt;/b&gt; is this map.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225257Z" creationid="miurahr" creationdate="20210602T225257Z">
@@ -402,6 +674,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224443Z" creationid="miurahr" creationdate="20210602T224428Z">
         <seg>これらのテキストは、テーマがロードされていない場合にテーマボタンの上に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This website uses OpenStreetMap as well.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225454Z" creationid="miurahr" creationdate="20210602T225440Z">
+        <seg>このサイトでもOpenStreetMapを使っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +706,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223648Z" creationid="miurahr" creationdate="20210602T223648Z">
         <seg>{count} 枚の写真をアップロードします…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used icons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225639Z" creationid="miurahr" creationdate="20210602T225639Z">
+        <seg>使用されるアイコン</seg>
       </tuv>
     </tu>
     <tu>
