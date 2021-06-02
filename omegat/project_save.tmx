@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>(Affiliated review)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231011Z" creationid="miurahr" creationdate="20210602T231011Z">
+        <seg>(Affiliated review)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a class='activate-osm-authentication'&gt;Please log in to add a new point&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224626Z" creationid="miurahr" creationdate="20210602T224626Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;h3&gt;About MapComplete&lt;/h3&gt;&lt;p&gt;With MapComplete you can enrich OpenStreetMap with information on a &lt;b&gt;single theme.&lt;/b&gt; Answer a few questions, and within minutes your contributions will be available around the globe!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230249Z" creationid="miurahr" creationdate="20210602T230249Z">
+        <seg>&lt;h3&gt;MapCompleteについて&lt;/h3&gt;&lt;p&gt;MapCompleteを使えば、&lt;b&gt;1つのテーマに関する情報でOpenStreetMapを充実させることができます。&lt;/b&gt;いくつかの質問に答えると、数分以内にあなたの投稿が世界中で公開されます!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;h3&gt;Add a {title} here?&lt;/h3&gt;The point you create here will be &lt;b&gt;visible for everyone&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224805Z" creationid="miurahr" creationdate="20210602T224805Z">
@@ -62,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;h3&gt;Custom themes&lt;/h3&gt;These are previously visited user-generated themes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230240Z" creationid="miurahr" creationdate="20210602T230240Z">
+        <seg>&lt;h3&gt;カスタムテーマ&lt;/h3&gt;これらは以前にアクセスされたユーザー生成テーマです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;h3&gt;Embed on your website&lt;/h3&gt;Please, embed this map into your website.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225903Z" creationid="miurahr" creationdate="20210602T225903Z">
         <seg>&lt;h3&gt;お客様のWebサイトに埋め込む&lt;/h3&gt;この地図をお客様のWebサイトに埋め込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;Log in&lt;/h3&gt;A personal layout is only available for OpenStreetMap users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230909Z" creationid="miurahr" creationdate="20210602T230909Z">
+        <seg>&lt;h3&gt;ログイン&lt;/h3&gt;個人用レイアウトはOpenStreetMapユーザのみが使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;h3&gt;Your personal theme&lt;/h3&gt;Activate your favourite layers from all the official themes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230906Z" creationid="miurahr" creationdate="20210602T230906Z">
+        <seg>&lt;h3&gt;お客様の個人的なテーマ&lt;/h3&gt;すべての公式テーマからお気に入りのレイヤを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p&gt;All data is provided by &lt;a href='https://osm.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;, freely reusable under &lt;a href='https://osm.org/copyright' target='_blank'&gt;the Open DataBase License&lt;/a&gt;.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225631Z" creationid="miurahr" creationdate="20210602T225631Z">
         <seg>&lt;p&gt;すべてのデータは&lt;a href='https://osm.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;によって提供され、&lt;a href='https://osm.org/copyright' target='_blank'&gt; Open DataBaseライセンス&lt;/a&gt;の下で自由に再利用できます。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;span class='thanks'&gt;Review saved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231015Z" creationid="miurahr" creationdate="20210602T231015Z">
+        <seg>&lt;span class='thanks'&gt;レビューが保存されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span&gt;I am affiliated with this object&lt;/span&gt;&lt;br/&gt;&lt;span class='subtle'&gt;Check if you are an owner, creator, employee, …&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231009Z" creationid="miurahr" creationdate="20210602T231009Z">
+        <seg>&lt;span&gt;わたしは、この対象物の関係者です&lt;/span&gt;&lt;br/&gt;&lt;span class='sensitive'&gt;所有者、作成者、従業員などの有無を確認します。&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A lot of applications use this data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224810Z" creationid="miurahr" creationdate="20210602T224810Z">
         <seg>多くのアプリケーションがこのデータを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A name is required in order to display and create reviews</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230918Z" creationid="miurahr" creationdate="20210602T230918Z">
+        <seg>レビューを表示および作成するには名前が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +230,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another, similar application is &lt;a href='https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete' class='underline hover:text-blue-800' class='underline hover:text-blue-800' target='_blank'&gt;StreetComplete&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230217Z" creationid="miurahr" creationdate="20210602T230217Z">
+        <seg>別に、同様のアプリケーションには、&lt;a href='https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete' class='underline hover:text-blue-800' class='underline hover:text-blue-800' target='_blank'&gt;StreetComplete&lt;/a&gt;があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribution notice</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225615Z" creationid="miurahr" creationdate="20210602T225615Z">
         <seg>帰属通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230606Z" creationid="miurahr" creationdate="20210602T230606Z">
+        <seg>背景マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be the first to write one and help open data and the business!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230926Z" creationid="miurahr" creationdate="20210602T230926Z">
+        <seg>最初に書き込みを行い、データとビジネスのオープン化を支援しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Closed for an unkown duration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230831Z" creationid="miurahr" creationdate="20210602T230831Z">
+        <seg>不明な期間、閉店しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Closed until {date}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230817Z" creationid="miurahr" creationdate="20210602T230817Z">
+        <seg>{date} まで閉店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not upload your picture.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223812Z" creationid="miurahr" creationdate="20210602T223812Z">
         <seg>写真をアップロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create your own MapComplete theme from scratch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230220Z" creationid="miurahr" creationdate="20210602T230220Z">
+        <seg>独自のMapCompleteテーマを最初から作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have a &lt;b&gt;feature request&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230437Z" creationid="miurahr" creationdate="20210602T230437Z">
+        <seg>&lt;b&gt;機能要求&lt;/b&gt;はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have internet and are third party API's allowed?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223954Z" creationid="miurahr" creationdate="20210602T223954Z">
@@ -250,6 +370,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224413Z" creationid="miurahr" creationdate="20210602T224413Z">
         <seg>完了!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During a public holiday, this amenity is</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230745Z" creationid="miurahr" creationdate="20210602T230745Z">
+        <seg>このアメニティは、祝日には</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +446,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error: could not visualize these opening hours.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230729Z" creationid="miurahr" creationdate="20210602T230729Z">
+        <seg>エラー:これらの営業時間を表示できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow the edit count on &lt;a href='https://osmcha.org/?filters=%7B%22date__gte%22%3A%5B%7B%22label%22%3A%222021-01-01%22%2C%22value%22%3A%222021-01-01%22%7D%5D%2C%22editor%22%3A%5B%7B%22label%22%3A%22mapcomplete%22%2C%22value%22%3A%22mapcomplete%22%7D%5D%7D' target='_blank' &gt;OsmCha&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230603Z" creationid="miurahr" creationdate="20210602T230603Z">
+        <seg> &lt;a href='https://osmcha.org/?filters=%7B%22date__gte%22%3A%5B%7B%22label%22%3A%222021-01-01%22%2C%22value%22%3A%222021-01-01%22%7D%5D%2C%22editor%22%3A%5B%7B%22label%22%3A%22mapcomplete%22%2C%22value%22%3A%22mapcomplete%22%7D%5D%7D' target='_blank' &gt;OsmCha&lt;/a&gt;の編集数に従います。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fri</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230652Z" creationid="miurahr" creationdate="20210602T230652Z">
+        <seg>金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230720Z" creationid="miurahr" creationdate="20210602T230720Z">
+        <seg>金曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Head over to &lt;a href='https://github.com/pietervdvn/MapComplete' target='_blank'&gt;the source code&lt;/a&gt; or &lt;a href='https://github.com/pietervdvn/MapComplete/issues' target='_blank'&gt;issue tracker.&lt;/a&gt; &lt;/p&gt;&lt;p&gt; Want to see &lt;b&gt;your progress&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230507Z" creationid="miurahr" creationdate="20210602T230507Z">
+        <seg>&lt;a href='https://github.com/pietervdvn/MapComplete' target='_blank'&gt;ソースコード&lt;/a&gt;または&lt;a href='https://github.com/pietervdvn/MapComplete/issues' target='_blank'&gt;問題追跡ツール&lt;/a&gt;に移動します。&lt;/p&gt;&lt;p&gt;&lt;b&gt;進捗状況&lt;/b&gt;を確認しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you change something here, it'll be reflected in those applications too - after their next update!&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225612Z" creationid="miurahr" creationdate="20210602T225612Z">
         <seg>ここで何かを変更すると、次の更新後にアプリケーションにも反映されます。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you create a review, you agree to &lt;a href='https://mangrove.reviews/terms' target='_blank'&gt;the TOS and privacy policy of Mangrove.reviews&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231020Z" creationid="miurahr" creationdate="20210602T231020Z">
+        <seg>レビューを作成する場合は、&lt;a href='https://mangrove.reviews/terms' target='_blank'&gt;Mangrove.reviewsのTOSおよびプライバシーポリシーに同意します。&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leave a review…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230929Z" creationid="miurahr" creationdate="20210602T230929Z">
+        <seg>レビューを残す…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Link copied to clipboard</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225912Z" creationid="miurahr" creationdate="20210602T225912Z">
@@ -390,10 +574,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Login to leave a review</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231108Z" creationid="miurahr" creationdate="20210602T231108Z">
+        <seg>ログインしてレビューを終了する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Login with OpenStreetMap</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224515Z" creationid="miurahr" creationdate="20210602T224515Z">
         <seg>OpenStreetMapからログインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Login with OpenStreetMap to get started</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230231Z" creationid="miurahr" creationdate="20210602T230231Z">
+        <seg>OpenStreetMapを使用してログインし、開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +610,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224456Z" creationid="miurahr" creationdate="20210602T224456Z">
         <seg>MapCompleteはOpenStreetMapのビューア兼エディタであり、特定のテーマに関する情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230634Z" creationid="miurahr" creationdate="20210602T230634Z">
+        <seg>月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230701Z" creationid="miurahr" creationdate="20210602T230701Z">
+        <seg>月曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No rating given</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230931Z" creationid="miurahr" creationdate="20210602T230931Z">
+        <seg>評価が与えられていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No tags selected</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230238Z" creationid="miurahr" creationdate="20210602T230238Z">
+        <seg>タグが選択されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +670,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One review</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230915Z" creationid="miurahr" creationdate="20210602T230915Z">
+        <seg>1回のレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open AED Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231127Z" creationid="miurahr" creationdate="20210602T231127Z">
+        <seg>Open AED Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open inbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230229Z" creationid="miurahr" creationdate="20210602T230229Z">
+        <seg>受信トレイを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the layer control box</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224840Z" creationid="miurahr" creationdate="20210602T224826Z">
         <seg>レイヤコントロールボックスを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opened around the clock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230841Z" creationid="miurahr" creationdate="20210602T230841Z">
+        <seg>24時間営業</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +734,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please, answer a few questions of existing points before adding a new point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230226Z" creationid="miurahr" creationdate="20210602T230226Z">
+        <seg>新しいポイントを追加する前に、既存のポイントに関するいくつかの質問に答えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please, only add things on to the map if they truly exist.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224808Z" creationid="miurahr" creationdate="20210602T224808Z">
         <seg>本当に存在するものだけをマップに追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please, read all your OpenStreetMap-messages before adding a new point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230224Z" creationid="miurahr" creationdate="20210602T230224Z">
+        <seg>新しいポイントを追加する前に、OpenStreetMapのメッセージをすべて読んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Posting as</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230936Z" creationid="miurahr" creationdate="20210602T230936Z">
+        <seg>としての投稿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230911Z" creationid="miurahr" creationdate="20210602T230911Z">
+        <seg>データを再ロードする</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,10 +790,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reviews are powered by &lt;a href='https://mangrove.reviews/' target='_blank'&gt;Mangrove Reviews&lt;/a&gt; and are available under &lt;a href='https://mangrove.reviews/terms#8-licensing-of-content' target='_blank'&gt;CC-BY 4.0&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231104Z" creationid="miurahr" creationdate="20210602T231104Z">
+        <seg>レビューは、&lt;a href='https://mangrove.reviews/' target='_blank'&gt;Mangrove Reviews&lt;/a&gt; and are available under &lt;a href='https://mangrove.reviews/terms#8-licensing-of-content' target='_blank'&gt;CC-BY 4.0&lt;/a&gt;で公開されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230655Z" creationid="miurahr" creationdate="20210602T230655Z">
+        <seg>土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230722Z" creationid="miurahr" creationdate="20210602T230722Z">
+        <seg>土曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224534Z" creationid="miurahr" creationdate="20210602T224534Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231013Z" creationid="miurahr" creationdate="20210602T231013Z">
+        <seg>保存中…</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +850,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224605Z" creationid="miurahr" creationdate="20210602T224605Z">
         <seg>ヒストリとその他の編集オプションについては、OpenStreetMapのこのオブジェクトを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select layers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230630Z" creationid="miurahr" creationdate="20210602T230630Z">
+        <seg>レイヤを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +902,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sun</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230658Z" creationid="miurahr" creationdate="20210602T230658Z">
+        <seg>日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230724Z" creationid="miurahr" creationdate="20210602T230724Z">
+        <seg>日曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks for helping out!&lt;/span&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224351Z" creationid="miurahr" creationdate="20210602T224351Z">
@@ -578,6 +930,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225913Z" creationid="miurahr" creationdate="20210602T225913Z">
         <seg>共有してくれてありがとう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks for sharing!&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T231017Z" creationid="miurahr" creationdate="20210602T231017Z">
+        <seg>共有ありがとう!&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;b&gt;theme maintainer&lt;/b&gt; defines elements, questions and languages for the theme.&lt;/p&gt;&lt;h3&gt;Find out more&lt;/h3&gt;&lt;p&gt;MapComplete always &lt;b&gt;offers the next step&lt;/b&gt; to learn more about OpenStreetMap.&lt;ul&gt;&lt;li&gt;When embedded in a website, the iframe links to a full-screen MapComplete&lt;/li&gt;&lt;li&gt;The full-screen version offers information about OpenStreetMap&lt;/li&gt;&lt;li&gt;Viewing works without login, but editing requires an OSM login.&lt;/li&gt;&lt;li&gt;If you are not logged in, you are asked to log in&lt;/li&gt;&lt;li&gt;Once you answered a single question, you can add new points to the map&lt;/li&gt;&lt;li&gt;After a while, actual OSM-tags are shown, later linking to the wiki&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Did you notice &lt;b&gt;an issue&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230434Z" creationid="miurahr" creationdate="20210602T230434Z">
+        <seg>&lt;b&gt;テーマメンテナ&lt;/b&gt;は、テーマの要素、質問、言語を定義します。&lt;/p&gt;&lt;h3&gt;詳細情報を見る&lt;/h3&gt;&lt;p&gt;MapCompleteは常に&lt;b&gt;次のステップを提供します&lt;/b&gt; OpenStreetMapについてさらに学ぶために&lt;ul&gt;&lt;li&gt;Webサイトに埋め込まれるとiframeはフルスクリーンのMapCompleteにリンクします&lt;/li&gt;&lt;li&gt;フルスクリーン版はOpenStreetMapに関する情報を提供します&lt;/li&gt;&lt;li&gt;ログインせずに表示することはできますが、編集にはOSMログインが必要です。&lt;/li&gt;&lt;li&gt;ログインしていない場合は、ログインするように求められます&lt;/li&gt;&lt;li&gt;1つの質問に回答すると、マップに新しいポイントを追加できます&lt;/li&gt;&lt;li&gt;しばらくすると、実際のOSMタグが表示され、後でWikiにリンクされます&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;b&gt;問題&lt;/b&gt;に気づきましたか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following rules are ignored in the input element:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230808Z" creationid="miurahr" creationdate="20210602T230808Z">
+        <seg>次のルールは入力エレメントでは無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The layer {layer} is not enabled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224837Z" creationid="miurahr" creationdate="20210602T224837Z">
@@ -646,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The opening hours of this shop are complicated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230804Z" creationid="miurahr" creationdate="20210602T230804Z">
+        <seg>この店の営業時間は複雑です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The phone number of this {category} is &lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225020Z" creationid="miurahr" creationdate="20210602T225020Z">
@@ -670,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no reviews yet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230920Z" creationid="miurahr" creationdate="20210602T230920Z">
+        <seg>まだレビューはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These texts are shown above the theme buttons when no theme is loaded</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224443Z" creationid="miurahr" creationdate="20210602T224428Z">
@@ -686,10 +1078,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230648Z" creationid="miurahr" creationdate="20210602T230648Z">
+        <seg>木Thu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230718Z" creationid="miurahr" creationdate="20210602T230718Z">
+        <seg>木曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying again in {count} seconds…</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224433Z" creationid="miurahr" creationdate="20210602T224425Z">
         <seg>{count} 秒以内に再試行します…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230639Z" creationid="miurahr" creationdate="20210602T230639Z">
+        <seg>火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230712Z" creationid="miurahr" creationdate="20210602T230702Z">
+        <seg>火曜日</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,10 +1142,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Want to &lt;b&gt;help translate&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230440Z" creationid="miurahr" creationdate="20210602T230440Z">
+        <seg>&lt;b&gt;翻訳の手伝いをしますか?&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Website: &lt;a href='{website}' target='_blank'&gt;{website}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225034Z" creationid="miurahr" creationdate="20210602T225034Z">
         <seg>Webサイト:&lt;a href='{website}' target='_blank'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230642Z" creationid="miurahr" creationdate="20210602T230642Z">
+        <seg>水曜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230714Z" creationid="miurahr" creationdate="20210602T230707Z">
+        <seg>水曜日</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +1238,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Zoom in to see this layer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230624Z" creationid="miurahr" creationdate="20210602T230624Z">
+        <seg>レイヤを拡大表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Zoom in to view or edit the data</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224410Z" creationid="miurahr" creationdate="20210602T224410Z">
         <seg>ズーム・インしてデータを表示または編集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>closed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230850Z" creationid="miurahr" creationdate="20210602T230850Z">
+        <seg>閉店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>from</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230755Z" creationid="miurahr" creationdate="20210602T230747Z">
+        <seg>開始時刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +1282,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224600Z" creationid="miurahr" creationdate="20210602T224600Z">
         <seg>number</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>opened</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230856Z" creationid="miurahr" creationdate="20210602T230856Z">
+        <seg>開店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or &lt;a href='https://www.openstreetmap.org/user/new' target='_blank'&gt;create a new account&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230236Z" creationid="miurahr" creationdate="20210602T230236Z">
+        <seg>または&lt;a href='https://www.openstreetmap.org/user/new' target='_blank'&gt;新しいアカウントを作成する&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>till</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230801Z" creationid="miurahr" creationdate="20210602T230751Z">
+        <seg>終了時刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +1330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224949Z" creationid="miurahr" creationdate="20210602T224949Z">
         <seg>名前のない {category}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{count} reviews</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T230913Z" creationid="miurahr" creationdate="20210602T230913Z">
+        <seg>{count}個のレビュー</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
