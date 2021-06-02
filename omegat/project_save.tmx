@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>&lt;br/&gt; It is free, and always will be.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T225908Z" creationid="miurahr" creationdate="20210602T225908Z">
-        <seg>&lt;br/&gt;これは無料であり、常に利用できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234340Z" creationid="miurahr" creationdate="20210602T225908Z">
+        <seg>&lt;br/&gt;無料であり、常に利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>&lt;h3&gt;Share this map&lt;/h3&gt; Share this map by copying the link below and sending it to friends and family:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T225843Z" creationid="miurahr" creationdate="20210602T225745Z">
-        <seg>&lt;h3&gt;このマップを共有&lt;/h3&gt;このマップを共有するには、次のリンクをコピーして、友人や家族に送信します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234429Z" creationid="miurahr" creationdate="20210602T225745Z">
+        <seg>&lt;h3&gt;このマップを共有&lt;/h3&gt;このマップを共有するには、次のリンクをコピーして、友人や家族に送信します:</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +238,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Architecture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235011Z" creationid="miurahr" creationdate="20210602T235004Z">
+        <seg>建物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Artwork</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234937Z" creationid="miurahr" creationdate="20210602T234928Z">
+        <seg>アートワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Artwork &lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234942Z" creationid="miurahr" creationdate="20210602T234934Z">
+        <seg>アートワーク &lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Artworks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234924Z" creationid="miurahr" creationdate="20210602T234840Z">
+        <seg>美術品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribution notice</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225615Z" creationid="miurahr" creationdate="20210602T225615Z">
@@ -262,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Benches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234431Z" creationid="miurahr" creationdate="20210602T234431Z">
+        <seg>Benches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brave browser or UMatrix might block them.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224031Z" creationid="miurahr" creationdate="20210602T224031Z">
         <seg>Brave ブラウザやUMatrixは、これらをブロックするかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bust</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235030Z" creationid="miurahr" creationdate="20210602T235030Z">
+        <seg>胸像</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224401Z" creationid="miurahr" creationdate="20210602T224401Z">
         <seg>削除済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diverse pieces of artwork</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234950Z" creationid="miurahr" creationdate="20210602T234950Z">
+        <seg>多様な作品</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Graffiti</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235051Z" creationid="miurahr" creationdate="20210602T235051Z">
+        <seg>詩碑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Head over to &lt;a href='https://github.com/pietervdvn/MapComplete' target='_blank'&gt;the source code&lt;/a&gt; or &lt;a href='https://github.com/pietervdvn/MapComplete/issues' target='_blank'&gt;issue tracker.&lt;/a&gt; &lt;/p&gt;&lt;p&gt; Want to see &lt;b&gt;your progress&lt;/b&gt;?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230507Z" creationid="miurahr" creationdate="20210602T230507Z">
@@ -504,8 +568,8 @@
       <tuv lang="en">
         <seg>If you want a custom-built quest, request it in the issue tracker</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T230148Z" creationid="miurahr" creationdate="20210602T230148Z">
-        <seg>カスタムビルドのクエストが必要な場合は、問題追跡ツールで要請してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234227Z" creationid="miurahr" creationdate="20210602T230148Z">
+        <seg>カスタムビルドのクエストが必要な場合は、問題追跡ツールで要請してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +594,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230035Z" creationid="miurahr" creationdate="20210602T230035Z">
         <seg>現在のレイヤの選択肢を含める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235046Z" creationid="miurahr" creationdate="20210602T235046Z">
+        <seg>インスタレーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +664,8 @@
       <tuv lang="en">
         <seg>Login with OpenStreetMap to get started</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T230231Z" creationid="miurahr" creationdate="20210602T230231Z">
-        <seg>OpenStreetMapを使用してログインし、開始します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234208Z" creationid="miurahr" creationdate="20210602T230231Z">
+        <seg>OpenStreetMapを使用してログインし開始します</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mural</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235013Z" creationid="miurahr" creationdate="20210602T235007Z">
+        <seg>壁画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No rating given</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230931Z" creationid="miurahr" creationdate="20210602T230931Z">
@@ -650,6 +730,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224527Z" creationid="miurahr" creationdate="20210602T224527Z">
         <seg>何も見つかりませんでした…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this map, one can find and mark nearby defibrillators</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234506Z" creationid="miurahr" creationdate="20210602T234506Z">
+        <seg>この地図では近くにある除細動器(AED)を見つけてマークします</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +768,16 @@
       <tuv lang="en">
         <seg>Open AED Map</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T231127Z" creationid="miurahr" creationdate="20210602T231127Z">
-        <seg>Open AED Map</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234517Z" creationid="miurahr" creationdate="20210602T231127Z">
+        <seg>オープンAEDマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Artwork Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234850Z" creationid="miurahr" creationdate="20210602T234508Z">
+        <seg>オープン美術マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +802,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230841Z" creationid="miurahr" creationdate="20210602T230841Z">
         <seg>24時間営業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Painting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235019Z" creationid="miurahr" creationdate="20210602T235019Z">
+        <seg>絵画</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +866,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230936Z" creationid="miurahr" creationdate="20210602T230936Z">
         <seg>としての投稿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Relief</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235141Z" creationid="miurahr" creationdate="20210602T235141Z">
+        <seg>レリーフ</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +938,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T231013Z" creationid="miurahr" creationdate="20210602T231013Z">
         <seg>保存中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sculpture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235022Z" creationid="miurahr" creationdate="20210602T235022Z">
+        <seg>彫刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +1018,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225940Z" creationid="miurahr" creationdate="20210602T225940Z">
         <seg>レイヤコントロールを展開して開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235024Z" creationid="miurahr" creationdate="20210602T235024Z">
+        <seg>彫像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235038Z" creationid="miurahr" creationdate="20210602T235038Z">
+        <seg>石</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1144,8 @@
       <tuv lang="en">
         <seg>The more people using this, the more valuable it becomes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T225910Z" creationid="miurahr" creationdate="20210602T225910Z">
-        <seg>これを使う人が増えれば増えるほど、それは価値が増します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234335Z" creationid="miurahr" creationdate="20210602T225910Z">
+        <seg>OSMを使う人が増えれば増えるほど、価値が増します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1202,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224443Z" creationid="miurahr" creationdate="20210602T224428Z">
         <seg>これらのテキストは、テーマがロードされていない場合にテーマボタンの上に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a {artwork_type}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234958Z" creationid="miurahr" creationdate="20210602T234955Z">
+        <seg>これは{artwork_type}です</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Welcome to Open Artwork Map, a map of statues, busts, grafittis and other artwork all over the world</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T234918Z" creationid="miurahr" creationdate="20210602T234533Z">
+        <seg>オープン美術マップへようこそ。世界中の銅像や胸像、詩碑などの美術の地図です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the email address of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225043Z" creationid="miurahr" creationdate="20210602T225043Z">
@@ -1194,6 +1346,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225000Z" creationid="miurahr" creationdate="20210602T225000Z">
         <seg>{category} の電話番号は何番ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the type of this artwork?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235002Z" creationid="miurahr" creationdate="20210602T234956Z">
+        <seg>この作品の種類は何ですか?</seg>
       </tuv>
     </tu>
     <tu>
