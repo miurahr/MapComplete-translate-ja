@@ -6,10 +6,74 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a class='activate-osm-authentication'&gt;Please log in to add a new point&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224626Z" creationid="miurahr" creationdate="20210602T224626Z">
+        <seg>&lt;a class='activate-osm-authentication'&gt;新しいポイントを追加するにはログインしてください&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;Add a {title} here?&lt;/h3&gt;The point you create here will be &lt;b&gt;visible for everyone&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224805Z" creationid="miurahr" creationdate="20210602T224805Z">
+        <seg>&lt;h3&gt;ここに{title}を追加しますか?&lt;/h3&gt;ここで作成したポイントは&lt;b&gt;すべてのユーザーに表示されます&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;h3&gt;An Open Map&lt;/h3&gt;&lt;p&gt;Wouldn't it be cool if there was a single map, which everyone could freely use and edit?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225109Z" creationid="miurahr" creationdate="20210602T225109Z">
+        <seg>&lt;h3&gt;オープン地図&lt;/h3&gt;&lt;p&gt;誰もが自由に使用して編集できる1つのマップがあればクールではないでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;span class='thanks'&gt;Your picture has been added.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224151Z" creationid="miurahr" creationdate="20210602T224151Z">
         <seg>&lt;span class='thanks'&gt;あなたの写真が追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A lot of applications use this data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224810Z" creationid="miurahr" creationdate="20210602T224810Z">
+        <seg>多くのアプリケーションがこのデータを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A single place to store all geo-information?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225118Z" creationid="miurahr" creationdate="20210602T225118Z">
+        <seg>すべての地理情報を格納するための単一の場所?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a new point?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224619Z" creationid="miurahr" creationdate="20210602T224619Z">
+        <seg>新しいポイントを追加しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a new {category} here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224617Z" creationid="miurahr" creationdate="20210602T224617Z">
+        <seg>ここに新しい {category} を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a {category} here.&lt;br/&gt;&lt;div class='alert'&gt;Your addition is visible for everyone&lt;/div&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224816Z" creationid="miurahr" creationdate="20210602T224816Z">
+        <seg>ここに{category}を追加します。&lt;br/&gt;&lt;div class='alert'&gt;追加内容はすべてのユーザーに表示されます。&lt;/div&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224355Z" creationid="miurahr" creationdate="20210602T224355Z">
+        <seg>[キャンセル]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose a language:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224855Z" creationid="miurahr" creationdate="20210602T224855Z">
+        <seg>言語を選択します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not upload your picture.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223812Z" creationid="miurahr" creationdate="20210602T223812Z">
         <seg>写真をアップロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224401Z" creationid="miurahr" creationdate="20210602T224401Z">
+        <seg>削除済み</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +150,266 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Done!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224413Z" creationid="miurahr" creationdate="20210602T224413Z">
+        <seg>完了!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easily edit and add OpenStreetMap for a certain theme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224932Z" creationid="miurahr" creationdate="20210602T224932Z">
+        <seg>特定のテーマに沿って、OpenStreetMapを簡単に編集し、情報を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this layer to add a point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224849Z" creationid="miurahr" creationdate="20210602T224849Z">
+        <seg>このレイヤで点を追加できるようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading data failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224417Z" creationid="miurahr" creationdate="20210602T224417Z">
+        <seg>データの読み込みに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading data…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224405Z" creationid="miurahr" creationdate="20210602T224405Z">
+        <seg>データをロードしています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Login to answer this question</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224522Z" creationid="miurahr" creationdate="20210602T224522Z">
+        <seg>ログインしてこの質問に答えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Login with OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224515Z" creationid="miurahr" creationdate="20210602T224515Z">
+        <seg>OpenStreetMapからログインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MapComplete is an OpenStreetMap-viewer and editor, which shows you information about a specific theme.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224456Z" creationid="miurahr" creationdate="20210602T224456Z">
+        <seg>MapCompleteはOpenStreetMapのビューア兼エディタであり、特定のテーマに関する情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing found…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224527Z" creationid="miurahr" creationdate="20210602T224527Z">
+        <seg>何も見つかりませんでした…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One question is skipped</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224540Z" creationid="miurahr" creationdate="20210602T224540Z">
+        <seg>1つの質問がスキップされます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the layer control box</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224840Z" creationid="miurahr" creationdate="20210602T224826Z">
+        <seg>レイヤコントロールボックスを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pick a theme below to get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224459Z" creationid="miurahr" creationdate="20210602T224459Z">
+        <seg>開始するには、下のテーマを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please login to add a picture</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223706Z" creationid="miurahr" creationdate="20210602T223706Z">
         <seg>写真を追加するにはログインしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please wait a bit before you add a new point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224754Z" creationid="miurahr" creationdate="20210602T224754Z">
+        <seg>新しいポイントを追加する前に少しお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please, only add things on to the map if they truly exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224808Z" creationid="miurahr" creationdate="20210602T224808Z">
+        <seg>本当に存在するものだけをマップに追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224359Z" creationid="miurahr" creationdate="20210602T224359Z">
+        <seg>イメージの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to the map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224531Z" creationid="miurahr" creationdate="20210602T224531Z">
+        <seg>マップに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224534Z" creationid="miurahr" creationdate="20210602T224534Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search a location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224524Z" creationid="miurahr" creationdate="20210602T224524Z">
+        <seg>場所を検索する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224526Z" creationid="miurahr" creationdate="20210602T224526Z">
+        <seg>検索中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See this object on OpenStreetMap for history and more editing options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224605Z" creationid="miurahr" creationdate="20210602T224605Z">
+        <seg>ヒストリとその他の編集オプションについては、OpenStreetMapのこのオブジェクトを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip this question</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224538Z" creationid="miurahr" creationdate="20210602T224538Z">
+        <seg>この質問をスキップします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some questions are skipped</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224555Z" creationid="miurahr" creationdate="20210602T224555Z">
+        <seg>一部の質問はスキップされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something went wrong…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224529Z" creationid="miurahr" creationdate="20210602T224529Z">
+        <seg>何かがうまくいかなかった…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks for helping out!&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224351Z" creationid="miurahr" creationdate="20210602T224351Z">
+        <seg>ご協力ありがとうございます!&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data is still loading.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224750Z" creationid="miurahr" creationdate="20210602T224750Z">
+        <seg>データはまだロード中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The email address of this {category} is &lt;a href='mailto:{email}' target='_blank'&gt;{email}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225050Z" creationid="miurahr" creationdate="20210602T225050Z">
+        <seg>この{category}の電子メール・アドレスは&lt;a href='mailto:{email}' target='_blank'&gt;{email}&lt;/a&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The layer {layer} is not enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224837Z" creationid="miurahr" creationdate="20210602T224837Z">
+        <seg>レイヤ{layer}は有効になっていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name of this {category} is $$$</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224944Z" creationid="miurahr" creationdate="20210602T224944Z">
+        <seg>この {category} の名前は $$$ です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The phone number of this {category} is &lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225020Z" creationid="miurahr" creationdate="20210602T225020Z">
+        <seg>この {category} の電話番号は&lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, all those websites with different, small and incompatible maps (which are always outdated) wouldn't be needed anymore.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;a href='https://OpenStreetMap.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;&lt;/b&gt; is this map.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225257Z" creationid="miurahr" creationdate="20210602T225257Z">
+        <seg>そうすれば、異なる、小さくて互換性のない地図(常に時代遅れのもの)を持つウェブサイトは、必要なくなるでしょう。&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;a href='https://OpenStreetMap.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;&lt;/b&gt;こそが地図です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These texts are shown above the theme buttons when no theme is loaded</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224443Z" creationid="miurahr" creationdate="20210602T224428Z">
+        <seg>これらのテキストは、テーマがロードされていない場合にテーマボタンの上に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying again in {count} seconds…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224433Z" creationid="miurahr" creationdate="20210602T224425Z">
+        <seg>{count} 秒以内に再試行します…</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +430,62 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Website: &lt;a href='{website}' target='_blank'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225034Z" creationid="miurahr" creationdate="20210602T225034Z">
+        <seg>Webサイト:&lt;a href='{website}' target='_blank'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to MapComplete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224446Z" creationid="miurahr" creationdate="20210602T224446Z">
+        <seg>MapCompleteへようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the email address of {category}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225043Z" creationid="miurahr" creationdate="20210602T225043Z">
+        <seg>{category} の電子メールアドレスは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the phone number of {category}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225000Z" creationid="miurahr" creationdate="20210602T225000Z">
+        <seg>{category} の電話番号は何番ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the website of {category}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T225030Z" creationid="miurahr" creationdate="20210602T225030Z">
+        <seg>{category} のウェブサイトはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are logged in, welcome back!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224518Z" creationid="miurahr" creationdate="20210602T224518Z">
+        <seg>ログインしました、お帰りなさい!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You clicked somewhere where no data is known yet.&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224622Z" creationid="miurahr" creationdate="20210602T224622Z">
+        <seg>データがまだわからない場所をクリックしました。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your picture will be published:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223717Z" creationid="miurahr" creationdate="20210602T223717Z">
@@ -94,10 +494,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Zoom in further to add a point.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224746Z" creationid="miurahr" creationdate="20210602T224746Z">
+        <seg>さらにズーム拡大して点を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom in to view or edit the data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224410Z" creationid="miurahr" creationdate="20210602T224410Z">
+        <seg>ズーム・インしてデータを表示または編集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>in the public domain</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223732Z" creationid="miurahr" creationdate="20210602T223732Z">
         <seg>in the public domain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>number</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224600Z" creationid="miurahr" creationdate="20210602T224600Z">
+        <seg>number</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +538,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223758Z" creationid="miurahr" creationdate="20210602T223758Z">
         <seg>CC-BY-ライセンスで</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{category} without a name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T224949Z" creationid="miurahr" creationdate="20210602T224949Z">
+        <seg>名前のない {category}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
