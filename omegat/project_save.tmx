@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A bicycle library has a collection of bikes which can be lent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030405Z" creationid="miurahr" creationdate="20210603T030405Z">
+        <seg>自転車ライブラリには借りられる自転車のコレクションがあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000633Z" creationid="miurahr" creationdate="20210603T000518Z">
@@ -368,8 +376,8 @@
       <tuv lang="en">
         <seg>A facility where bicycles can be lent for longer period of times</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210603T030221Z" creationid="miurahr" creationdate="20210603T030221Z">
-        <seg>自転車ライブラリは、長期に自転車を借りられる場所です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030228Z" creationid="miurahr" creationdate="20210603T030221Z">
+        <seg>自転車ライブラリは、長期に自転車を借りられる場所です</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are there tools here to repair your own bike?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030519Z" creationid="miurahr" creationdate="20210603T030519Z">
+        <seg>自分の自転車を修理するための道具はここにありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Artwork</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234937Z" creationid="miurahr" creationdate="20210602T234928Z">
@@ -854,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bicycle tube vending machine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030409Z" creationid="miurahr" creationdate="20210603T030409Z">
+        <seg>自転車用チューブ自動販売機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bike Monitoring stations</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000656Z" creationid="miurahr" creationdate="20210603T000644Z">
@@ -862,10 +886,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bike cafe</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030442Z" creationid="miurahr" creationdate="20210603T030442Z">
+        <seg>自転車カフェ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bike cafe &lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030452Z" creationid="miurahr" creationdate="20210603T030452Z">
+        <seg>自転車カフェ&lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bike cleaning service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030550Z" creationid="miurahr" creationdate="20210603T030550Z">
+        <seg>自転車清掃サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bike cleaning service &lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030602Z" creationid="miurahr" creationdate="20210603T030602Z">
+        <seg>自転車清掃サービス&lt;i&gt;{name}&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bike monitoring stations with live data from Brussels Mobility</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000706Z" creationid="miurahr" creationdate="20210603T000706Z">
         <seg>Brussels Mobilityのライブデータを使用した自転車モニタリングステーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bikes for adult available</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030342Z" creationid="miurahr" creationdate="20210603T030342Z">
+        <seg>大人用の自転車あり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bikes for children available</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030344Z" creationid="miurahr" creationdate="20210603T030336Z">
+        <seg>子ども用自転車あり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bikes for disabled persons available</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030352Z" creationid="miurahr" creationdate="20210603T030352Z">
+        <seg>障害者用自転車あり</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does this bike cafe offer a bike pump for use by anyone?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030507Z" creationid="miurahr" creationdate="20210603T030507Z">
+        <seg>この自転車カフェには、誰でも使える自転車用ポンプがありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this bike cafe repair bikes?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030527Z" creationid="miurahr" creationdate="20210603T030527Z">
+        <seg>この自転車カフェは自転車の修理をしてくれるのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does this place charge a fee?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001024Z" creationid="miurahr" creationdate="20210603T001024Z">
@@ -1614,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fietsbibliotheek</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030355Z" creationid="miurahr" creationdate="20210603T030355Z">
+        <seg>Fietsbibliotheek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find sites to spend the night with your camper</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000827Z" creationid="miurahr" creationdate="20210603T000827Z">
@@ -1754,6 +1858,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T025758Z" creationid="miurahr" creationdate="20210603T025758Z">
         <seg>このベンチは何席あるんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How much does lending a bicycle cost?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030251Z" creationid="miurahr" creationdate="20210603T030251Z">
+        <seg>自転車を借りるのにいくらかかりますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is this vending machine still operational?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030413Z" creationid="miurahr" creationdate="20210603T030413Z">
+        <seg>この自動販売機はまだ使えますか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is toprope climbing possible here?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024940Z" creationid="miurahr" creationdate="20210603T024924Z">
@@ -1978,6 +2098,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230929Z" creationid="miurahr" creationdate="20210602T230929Z">
         <seg>レビューを残す…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lending a bicycle costs {charge}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030309Z" creationid="miurahr" creationdate="20210603T030304Z">
+        <seg>自転車を借りるのに{charge} の料金がかかります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lending a bicycle costs €20/year and €20 warranty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030328Z" creationid="miurahr" creationdate="20210603T030318Z">
+        <seg>自転車の貸し出しには年間20ユーロの費用と20ユーロの保証が必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lending a bicycle is free</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030320Z" creationid="miurahr" creationdate="20210603T030305Z">
+        <seg>自転車の貸し出しは無料</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The operational status is &lt;i&gt;{operational_status&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030431Z" creationid="miurahr" creationdate="20210603T030431Z">
+        <seg>オペレーション・ステータスは &lt;i&gt;{operational_status&lt;/i&gt;です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The operator is a(n) {operator:type} entity.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001924Z" creationid="miurahr" creationdate="20210603T001604Z">
@@ -3354,6 +3506,70 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T030146Z" creationid="miurahr" creationdate="20210603T030146Z">
         <seg>このベンチは最後に{survey:date}に調査されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bicycle library is called {name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030247Z" creationid="miurahr" creationdate="20210603T030247Z">
+        <seg>この自転車ライブラリは {name} と呼ばれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe doesn't offer a bike pump for anyone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030515Z" creationid="miurahr" creationdate="20210603T030515Z">
+        <seg>この自転車カフェでは誰にも自転車ポンプを提供していません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe doesn't offer tools for DIY repair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030523Z" creationid="miurahr" creationdate="20210603T030523Z">
+        <seg>この自転車カフェはDIY修理用の道具を提供していない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe doesn't repair bikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030530Z" creationid="miurahr" creationdate="20210603T030530Z">
+        <seg>この自転車カフェは自転車を修理しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe is called {name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030456Z" creationid="miurahr" creationdate="20210603T030456Z">
+        <seg>この自転車カフェの名前は{name}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe offers a bike pump for anyone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030509Z" creationid="miurahr" creationdate="20210603T030509Z">
+        <seg>この自転車カフェには誰でも使える自転車用ポンプがあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe offers tools for DIY repair</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030521Z" creationid="miurahr" creationdate="20210603T030521Z">
+        <seg>この自転車カフェはDIY修理のための道具を提供している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This bike cafe repairs bikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030528Z" creationid="miurahr" creationdate="20210603T030528Z">
+        <seg>この自転車カフェは自転車を修理する</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +3854,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This vending machine is broken</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030438Z" creationid="miurahr" creationdate="20210603T030438Z">
+        <seg>この自動販売機は故障している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This vending machine is closed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030440Z" creationid="miurahr" creationdate="20210603T030440Z">
+        <seg>この自動販売機は閉まっている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This vending machine works</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030436Z" creationid="miurahr" creationdate="20210603T030436Z">
+        <seg>この自動販売機は動く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This website uses OpenStreetMap as well.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225454Z" creationid="miurahr" creationdate="20210602T225440Z">
@@ -3886,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the email address of {name}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030544Z" creationid="miurahr" creationdate="20210603T030544Z">
+        <seg>{name}の電子メールアドレスは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the level of the easiest route here, accoring to the french classification system?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024822Z" creationid="miurahr" creationdate="20210603T024735Z">
@@ -3906,6 +4154,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001643Z" creationid="miurahr" creationdate="20210603T001606Z">
         <seg>この救急ステーションの名前は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the name of this bicycle library?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030235Z" creationid="miurahr" creationdate="20210603T030222Z">
+        <seg>この自転車ライブラリの名前は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the name of this bike cafe?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030454Z" creationid="miurahr" creationdate="20210603T030454Z">
+        <seg>この自転車カフェの名前は何ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the phone number of {name}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030541Z" creationid="miurahr" creationdate="20210603T030541Z">
+        <seg>{name}の電話番号は何番ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the phone number?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005310Z" creationid="miurahr" creationdate="20210603T005310Z">
@@ -4022,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the website of {name}?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030537Z" creationid="miurahr" creationdate="20210603T030537Z">
+        <seg>{name} のウェブサイトは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is this place called?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001020Z" creationid="miurahr" creationdate="20210603T001020Z">
@@ -4058,6 +4338,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T023845Z" creationid="miurahr" creationdate="20210603T023845Z">
         <seg>この充電ステーションはいつオープンしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it this bike café opened?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030546Z" creationid="miurahr" creationdate="20210603T030546Z">
+        <seg>この自転車カフェはいつオープンしたんですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4426,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235509Z" creationid="miurahr" creationdate="20210602T235436Z">
         <seg>&lt;b&gt;このアートワーク&lt;/b&gt;に関するwikidataのエントリーはどれですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Who can lend bicycles here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030331Z" creationid="miurahr" creationdate="20210603T030331Z">
+        <seg>ここで自転車を貸してくれるのは誰ですか?</seg>
       </tuv>
     </tu>
     <tu>
