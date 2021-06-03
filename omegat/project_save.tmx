@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a href='https://nl.wikipedia.org/wiki/Geveltuin' target=_blank&gt;Facade gardens&lt;/a&gt;, green facades and trees in the city not only bring peace and quiet, but also a more beautiful city, greater biodiversity, a cooling effect and better air quality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013654Z" creationid="miurahr" creationdate="20210603T013654Z">
+        <seg>&lt;a href='https://nl.wikipedia.org/wiki/Geveltuin' target=_blank&gt;ファサード庭園&lt;/a&gt;、都市の緑のファサードと樹木は、平和と静けさをもたらすだけでなく、より美しい都市、より大きな生物多様性、冷却効果、より良い大気質をもたらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a href='mailto:{email}'&gt;{email}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005315Z" creationid="miurahr" creationdate="20210603T005315Z">
@@ -238,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A cyclestreet is a street where motorized traffic is not allowed to overtake a cyclist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005656Z" creationid="miurahr" creationdate="20210603T005656Z">
+        <seg>cyclestreetとは、自動車による交通がサイクリストを追い越すことができない道路です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A cyclestreet is is a street where &lt;b&gt;motorized traffic is not allowed to overtake cyclists&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005551Z" creationid="miurahr" creationdate="20210603T005551Z">
+        <seg>cyclestreetとは、&lt;b&gt;自動車がサイクリストを追い越すことができない&lt;/b&gt;道です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A fire extinguisher is a small, portable device used to stop a fire</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002404Z" creationid="miurahr" creationdate="20210603T002404Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235529Z" creationid="miurahr" creationdate="20210602T235529Z">
         <seg>ベンチの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A map of cyclestreets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005535Z" creationid="miurahr" creationdate="20210603T005535Z">
+        <seg>cyclestreetsの地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +450,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000922Z" creationid="miurahr" creationdate="20210603T000916Z">
         <seg>写真とレビューを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All streets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005724Z" creationid="miurahr" creationdate="20210603T005724Z">
+        <seg>すべての道路</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +782,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cyclestreets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005532Z" creationid="miurahr" creationdate="20210603T005532Z">
+        <seg>Cyclestreets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyclestreets can be found in the Netherlands and Belgium, but also in Germany and France.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005603Z" creationid="miurahr" creationdate="20210603T005603Z">
+        <seg>Cyclestreetsはオランダやベルギーにもありますが、ドイツやフランスにもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyclofix - an open map for cyclists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005803Z" creationid="miurahr" creationdate="20210603T005803Z">
+        <seg>Cyclofix - サイクリストのためのオープンマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleted</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224401Z" creationid="miurahr" creationdate="20210602T224401Z">
@@ -854,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Drinking Water</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005900Z" creationid="miurahr" creationdate="20210603T005900Z">
+        <seg>飲料水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During a public holiday, this amenity is</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230745Z" creationid="miurahr" creationdate="20210602T230745Z">
@@ -950,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facade gardens</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005916Z" creationid="miurahr" creationdate="20210603T005907Z">
+        <seg>ファサード庭園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find sites to spend the night with your camper</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000827Z" creationid="miurahr" creationdate="20210603T000827Z">
@@ -1026,6 +1106,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230720Z" creationid="miurahr" creationdate="20210602T230720Z">
         <seg>金曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Future cyclestreet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005703Z" creationid="miurahr" creationdate="20210603T005703Z">
+        <seg>将来のcyclestreet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is this street a cyclestreet?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005605Z" creationid="miurahr" creationdate="20210603T005605Z">
+        <seg>この通りはcyclestreetですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is only possible to stay here if you have a long term contract(this place will disappear from this map if you choose this)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001342Z" creationid="miurahr" creationdate="20210603T001342Z">
@@ -1162,6 +1258,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002336Z" creationid="miurahr" creationdate="20210603T002336Z">
         <seg>地下にあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layer to mark any street as cycle street</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005747Z" creationid="miurahr" creationdate="20210603T005747Z">
+        <seg>任意の道路をCycle Streetとしてマークするレイヤ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,10 +1534,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On this map, publicly accessible drinking water spots are shown and can be easily added</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005902Z" creationid="miurahr" creationdate="20210603T005902Z">
+        <seg>この地図には、一般にアクセス可能な飲料水スポットが示されており、簡単に追加することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On this map, you find playgrounds and can add more information</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001546Z" creationid="miurahr" creationdate="20210603T001540Z">
         <seg>この地図では遊び場を見つけ情報を追加することができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this open map, you can find surveillance cameras.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005518Z" creationid="miurahr" creationdate="20210603T005513Z">
+        <seg>このオープンマップでは、監視カメラを確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Street</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005752Z" creationid="miurahr" creationdate="20210603T005752Z">
+        <seg>ストリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sun</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230658Z" creationid="miurahr" creationdate="20210602T230658Z">
@@ -1914,6 +2042,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230808Z" creationid="miurahr" creationdate="20210602T230808Z">
         <seg>次のルールは入力エレメントでは無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The goal of this map is to present cyclists with an easy-to-use solution to find the appropriate infrastructure for their needs.&lt;br&gt;&lt;br&gt;You can track your precise location (mobile only) and select layers that are relevant for you in the bottom left corner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005827Z" creationid="miurahr" creationdate="20210603T005827Z">
+        <seg>このマップの目的は、サイクリストのニーズに適した施設を見つけるための使いやすいソリューションを提供することです。&lt;br&gt;&lt;br&gt;正確な位置を追跡し(モバイルのみ)、左下コーナーで関連するレイヤを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are signposted by a special traffic sign.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005556Z" creationid="miurahr" creationdate="20210603T005556Z">
+        <seg>専用の道路標識で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a website and a webapp.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000928Z" creationid="miurahr" creationdate="20210603T000917Z">
@@ -2146,6 +2290,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235547Z" creationid="miurahr" creationdate="20210602T235547Z">
         <seg>このマップには、OpenStreetMapに記録されているすべてのベンチが表示されます。個々のベンチ、および公共交通機関の停留所または避難場所に属するベンチです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This map shows facade gardens with pictures and useful info about orientation, sunshine and plant types.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005912Z" creationid="miurahr" creationdate="20210603T005912Z">
+        <seg>このマップには、ファサード庭園が図とともに表示され、方向、日照、植物のタイプに関する有用な情報が示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2394,54 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001834Z" creationid="miurahr" creationdate="20210603T001604Z">
         <seg>このステーションは{operator}によって運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street is a cyclestreet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005622Z" creationid="miurahr" creationdate="20210603T005616Z">
+        <seg>この通りはcyclestreetだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street is a cyclestreet (and has a maxspeeld of 30km/h)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005618Z" creationid="miurahr" creationdate="20210603T005615Z">
+        <seg>cyclestreet(最高速度は30km/h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street is not a cyclestreet</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005626Z" creationid="miurahr" creationdate="20210603T005626Z">
+        <seg>この通りはcyclestreetではない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street will become a cyclestreet at {cyclestreet:start_date}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005648Z" creationid="miurahr" creationdate="20210603T005648Z">
+        <seg>この通りは{cyclestreet:start_date}に、cyclestreetになります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street will become a cyclestreet soon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005707Z" creationid="miurahr" creationdate="20210603T005707Z">
+        <seg>この通りはまもなくcyclestreetになります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This street will become a cyclstreet soon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005624Z" creationid="miurahr" creationdate="20210603T005624Z">
+        <seg>この通りはまもなくcyclstreetになるだろう</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When will this street become a cyclestreet?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005630Z" creationid="miurahr" creationdate="20210603T005630Z">
+        <seg>この通りはいつcyclestreetになるんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where is it positioned?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002345Z" creationid="miurahr" creationdate="20210603T002345Z">
@@ -2618,6 +2826,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000913Z" creationid="miurahr" creationdate="20210603T000913Z">
         <seg>提供されるサービスとコストに関する詳細を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use this tool to add or edit pins (points of interest) to the map and provide more data by answering the questions.&lt;br&gt;&lt;br&gt;All changes you make will automatically be saved in the global database of OpenStreetMap and can be freely re-used by others.&lt;br&gt;&lt;br&gt;For more information about the cyclofix project, go to &lt;a href='https://cyclofix.osm.be/'&gt;cyclofix.osm.be&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005856Z" creationid="miurahr" creationdate="20210603T005856Z">
+        <seg>このツールを使用して、マップにピン(注目点)を追加または編集したり、質問に答えることでより多くのデータを提供することもできます。&lt;br&gt;&lt;br&gt;変更内容はすべてOpenStreetMapのグローバルデータベースに自動的に保存され、他のユーザーが自由に再利用できます。&lt;br&gt;&lt;br&gt;cyclofixプロジェクトの詳細については、 &lt;a href='https://cyclofix.osm.be/'&gt;cyclofix.osm.be&lt;/a&gt; を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +3018,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005225Z" creationid="miurahr" creationdate="20210603T005225Z">
         <seg>{name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{name} will become a cyclestreet soon</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005720Z" creationid="miurahr" creationdate="20210603T005720Z">
+        <seg>{name}は、もうすぐcyclestreetになる</seg>
       </tuv>
     </tu>
     <tu>
