@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(e.g. name of neighborhood, villlage, or town)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001815Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>(例: 地区、村、または町の名称)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(skip if there is no obvious number of spaces or allowed vehicles)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001202Z" creationid="miurahr" creationdate="20210603T001202Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A fire station is a place where the fire trucks and firefighters are located when not in operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002136Z" creationid="miurahr" creationdate="20210603T002136Z">
+        <seg>消防署は、運転していないときに消防車や消防士がいる場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A lot of applications use this data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224810Z" creationid="miurahr" creationdate="20210602T224810Z">
@@ -186,6 +202,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235529Z" creationid="miurahr" creationdate="20210602T235529Z">
         <seg>ベンチの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A map of maps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001501Z" creationid="miurahr" creationdate="20210603T001501Z">
+        <seg>マップのマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A map of public toilets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001401Z" creationid="miurahr" creationdate="20210603T001401Z">
+        <seg>公衆トイレの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A map with playgrounds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001539Z" creationid="miurahr" creationdate="20210603T001539Z">
+        <seg>遊び場のある地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add an ambulance station to the map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001459Z" creationid="miurahr" creationdate="20210603T001445Z">
+        <seg>救急ステーション(消防署)をマップに追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add or change questions to this map theme</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225916Z" creationid="miurahr" creationdate="20210602T225916Z">
@@ -274,6 +322,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225606Z" creationid="miurahr" creationdate="20210602T225606Z">
         <seg>すべてのデータは、OSMからのものであり、あなたの答えと訂正もOSMに追加されます。&lt;/p&gt;&lt;p&gt;すでに多くの人やアプリケーションがOpenStreetMapを使っています:&lt;a href='https://maps.me/' target='_blank'&gt;Maps.me&lt;/a&gt;や、&lt;a href='https://osmAnd.net' target='_blank'&gt;OsmAnd&lt;/a&gt;など。Fさらに、acebook、Instagram、Apple-maps、Bing-mapsも(部分的に)OpenStreetMapを利用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ambulance Station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001608Z" creationid="miurahr" creationdate="20210603T001608Z">
+        <seg>救急ステーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ambulance station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001453Z" creationid="miurahr" creationdate="20210603T001440Z">
+        <seg>救急ステーション(消防署)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An  ambulance station is an area for storage of ambulance vehicles, medical equipment, personal protective equipment, and other medical supplies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001619Z" creationid="miurahr" creationdate="20210603T001606Z">
+        <seg>救急ステーションは、救急車、医療機器、個人用保護具、およびその他の医療用品を保管する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An editable map with basic shop information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001601Z" creationid="miurahr" creationdate="20210603T001601Z">
+        <seg>基本的なショップ情報を含む編集可能なマップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a personal theme based on all the available layers of all themes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001536Z" creationid="miurahr" creationdate="20210603T001536Z">
+        <seg>すべてのテーマの使用可能なすべてのレイヤーに基づいて個人用テーマを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own MapComplete theme from scratch</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230220Z" creationid="miurahr" creationdate="20210602T230220Z">
@@ -550,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have to pay for the internet access?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001217Z" creationid="miurahr" creationdate="20210603T001217Z">
+        <seg>インターネット接続にお金はかかりますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does this place charge a fee?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001024Z" creationid="miurahr" creationdate="20210603T001024Z">
@@ -562,6 +658,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001049Z" creationid="miurahr" creationdate="20210603T001049Z">
         <seg>この場所に衛生的なゴミ捨て場はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place have a website?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001257Z" creationid="miurahr" creationdate="20210603T001257Z">
+        <seg>ここにはウェブサイトがありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place have toilets?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001231Z" creationid="miurahr" creationdate="20210603T001223Z">
+        <seg>ここにトイレはありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place offer spots for long term rental?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001301Z" creationid="miurahr" creationdate="20210603T001301Z">
+        <seg>ここには長期レンタルのスポットがありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place provide internet access?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001204Z" creationid="miurahr" creationdate="20210603T001204Z">
+        <seg>この場所はインターネットにアクセスできますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fire station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002143Z" creationid="miurahr" creationdate="20210603T002143Z">
+        <seg>消防署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow the edit count on &lt;a href='https://osmcha.org/?filters=%7B%22date__gte%22%3A%5B%7B%22label%22%3A%222021-01-01%22%2C%22value%22%3A%222021-01-01%22%7D%5D%2C%22editor%22%3A%5B%7B%22label%22%3A%22mapcomplete%22%2C%22value%22%3A%22mapcomplete%22%7D%5D%7D' target='_blank' &gt;OsmCha&lt;/a&gt;.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230603Z" creationid="miurahr" creationdate="20210602T230603Z">
@@ -706,6 +842,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230507Z" creationid="miurahr" creationdate="20210602T230507Z">
         <seg>&lt;a href='https://github.com/pietervdvn/MapComplete' target='_blank'&gt;ソースコード&lt;/a&gt;または&lt;a href='https://github.com/pietervdvn/MapComplete/issues' target='_blank'&gt;問題追跡ツール&lt;/a&gt;に移動します。&lt;/p&gt;&lt;p&gt;&lt;b&gt;進捗状況&lt;/b&gt;を確認しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How is the station operator classified?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001852Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>ステーションの運営の分類は?</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is only possible to stay here if you have a long term contract(this place will disappear from this map if you choose this)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001342Z" creationid="miurahr" creationdate="20210603T001342Z">
+        <seg>長期契約をしている場合のみ宿泊可能です(これを選択すると、この場所はこの地図から消えます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leave a review…</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230929Z" creationid="miurahr" creationdate="20210602T230929Z">
@@ -846,6 +998,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map all the trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001410Z" creationid="miurahr" creationdate="20210603T001410Z">
+        <seg>すべての樹木をマッピングする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map all the trees!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001438Z" creationid="miurahr" creationdate="20210603T001438Z">
+        <seg>すべての樹木をマッピングします!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map of ambulance stations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002131Z" creationid="miurahr" creationdate="20210603T002131Z">
+        <seg>救急ステーションの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MapComplete has been built by {contributors} and &lt;a href='https://github.com/pietervdvn/MapComplete/graphs/contributors' target='_blank'&gt;{hiddenCount} more contributors&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225838Z" creationid="miurahr" creationdate="20210602T225736Z">
@@ -874,6 +1050,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230701Z" creationid="miurahr" creationdate="20210602T230701Z">
         <seg>月曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More details about this place: {description}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001345Z" creationid="miurahr" creationdate="20210603T001345Z">
+        <seg>この場所の詳細:{description}</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No, there are no permanent guests here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001331Z" creationid="miurahr" creationdate="20210603T001331Z">
+        <seg>いいえ、ここには長期滞在者はいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing found…</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224527Z" creationid="miurahr" creationdate="20210602T224527Z">
@@ -918,10 +1110,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Official website: &lt;a href='{website}'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001255Z" creationid="miurahr" creationdate="20210603T001236Z">
+        <seg>公式Webサイト: &lt;a href='{website}'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this map you can find all maps OpenStreetMap knows - typically a big map on an information board showing the area, city or region, e.g. a tourist map on the back of a billboard, a map of a nature reserve, a map of cycling networks in the region, ...) &lt;br/&gt;&lt;br/&gt;If a map is missing, you can easily map this map on OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001521Z" creationid="miurahr" creationdate="20210603T001521Z">
+        <seg>このマップには、OpenStreetMapが知っているすべてのマップが表示されます。通常は、エリア、都市、または地域を示す情報ボード上の大きなマップが表示されます。たとえば、ビルボードの背面にある観光マップ、自然保護区のマップ、地域内のサイクリングネットワークのマップなどです。)&lt;br/&gt;&lt;br/&gt;マップがない場合は、このマップをOpenStreetMapに簡単にマップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On this map, one can find and mark nearby defibrillators</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234506Z" creationid="miurahr" creationdate="20210602T234506Z">
         <seg>この地図では近くにある除細動器(AED)を見つけてマークします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this map, you find playgrounds and can add more information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001546Z" creationid="miurahr" creationdate="20210603T001540Z">
+        <seg>この地図では遊び場を見つけ情報を追加することができます</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Shop Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001558Z" creationid="miurahr" creationdate="20210603T001558Z">
+        <seg>オープン ショップ マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Toilet Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001358Z" creationid="miurahr" creationdate="20210603T001358Z">
+        <seg>オープントイレマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open inbox</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230229Z" creationid="miurahr" creationdate="20210602T230229Z">
@@ -1014,10 +1246,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Personal theme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001533Z" creationid="miurahr" creationdate="20210603T001533Z">
+        <seg>個人的なテーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pick a theme below to get started.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224459Z" creationid="miurahr" creationdate="20210602T224459Z">
         <seg>開始するには、下のテーマを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playgrounds</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001538Z" creationid="miurahr" creationdate="20210603T001538Z">
+        <seg>遊び場</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,10 +1622,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The operator is a(n) {operator:type} entity.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001924Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>運営者は、{operator:type} です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The phone number of this {category} is &lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225020Z" creationid="miurahr" creationdate="20210602T225020Z">
         <seg>この {category} の電話番号は&lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The station is operated by a community-based, or informal organization.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002033Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>任意団体やコミュニティが運営しているステーションである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The station is operated by a formal group of volunteers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002100Z" creationid="miurahr" creationdate="20210603T001603Z">
+        <seg>公益団体が運営しているステーションである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The station is operated by the government.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001938Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>ステーションは自治体が運営する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The station is privately operated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002116Z" creationid="miurahr" creationdate="20210603T001603Z">
+        <seg>個人が運営しているステーションである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1690,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230920Z" creationid="miurahr" creationdate="20210602T230920Z">
         <seg>まだレビューはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is internet access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001206Z" creationid="miurahr" creationdate="20210603T001206Z">
+        <seg>インターネットアクセスがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no internet access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001215Z" creationid="miurahr" creationdate="20210603T001215Z">
+        <seg>インターネットにアクセスできない</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,10 +1766,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This place does not have toilets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001240Z" creationid="miurahr" creationdate="20210603T001234Z">
+        <seg>ここにはトイレがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This place has a sanitary dump station</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001052Z" creationid="miurahr" creationdate="20210603T001052Z">
         <seg>この場所には衛生的なゴミ捨て場がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place has toilets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001243Z" creationid="miurahr" creationdate="20210603T001232Z">
+        <seg>ここにはトイレがある</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1802,46 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000910Z" creationid="miurahr" creationdate="20210603T000910Z">
         <seg>このWebサイトでは、すべてのキャンピングカーの公式停車場所と、汚水を捨てることができる場所を収集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This station is along a highway called {addr:street}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001743Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>{addr:street} 沿いにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This station is called {name}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001649Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>このステーションの名前は{name}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This station is found within {addr:place}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001821Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>このステーションは{addr:place}にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This station is operated by {operator}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001834Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>このステーションは{operator}によって運営されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This theme shows all (touristic) maps that OpenStreetMap knows of</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001507Z" creationid="miurahr" creationdate="20210603T001507Z">
+        <seg>このテーマには、OpenStreetMapが知っているすべての(観光)マップが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1882,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235346Z" creationid="miurahr" creationdate="20210602T235346Z">
         <seg>Tilework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trees</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001403Z" creationid="miurahr" creationdate="20210603T001403Z">
+        <seg>樹木</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What agency operates this station?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001828Z" creationid="miurahr" creationdate="20210603T001604Z">
+        <seg>このステーションを運営しているのはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the email address of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225043Z" creationid="miurahr" creationdate="20210602T225043Z">
@@ -1638,10 +2014,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the name of this ambulance station?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001643Z" creationid="miurahr" creationdate="20210603T001606Z">
+        <seg>この救急ステーションの名前は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the phone number of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225000Z" creationid="miurahr" creationdate="20210602T225000Z">
         <seg>{category} の電話番号は何番ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the street name where the station located?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001721Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>救急ステーションの所在地はどこですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where is the station located?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001759Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>救急ステーションの住所は?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Which artist created this?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235349Z" creationid="miurahr" creationdate="20210602T235349Z">
@@ -1690,6 +2090,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235554Z" creationid="miurahr" creationdate="20210602T235554Z">
         <seg>OpenStreetMapアカウントを使用すると、新しいベンチをマップしたり、既存のベンチの詳細を編集したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Would you like to add a general description of this place?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001351Z" creationid="miurahr" creationdate="20210603T001351Z">
+        <seg>Would you like to add a general description of this place?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes, there are some spots for long term rental, but you can also stay on a daily basis</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001313Z" creationid="miurahr" creationdate="20210603T001313Z">
+        <seg>はい、長期レンタルのスポットもあり、日常的に滞在することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +2138,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224622Z" creationid="miurahr" creationdate="20210602T224622Z">
         <seg>データがまだわからない場所をクリックしました。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do not need to pay extra for internet access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001226Z" creationid="miurahr" creationdate="20210603T001222Z">
+        <seg>インターネット接続に追加料金を支払う必要はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to pay extra for internet access</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001229Z" creationid="miurahr" creationdate="20210603T001220Z">
+        <seg>インターネット接続には別途料金が必要です</seg>
       </tuv>
     </tu>
     <tu>
