@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All changes you make will automatically be saved in the global database of OpenStreetMap and can be freely re-used by others.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020047Z" creationid="miurahr" creationdate="20210603T020047Z">
+        <seg>すべての変更は自動的にOpenStreetMapのグローバルデータベースに保存され、他のユーザが自由に再利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All streets</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005724Z" creationid="miurahr" creationdate="20210603T005724Z">
@@ -718,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can you dispose of grey water here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020110Z" creationid="miurahr" creationdate="20210603T020110Z">
+        <seg>汚水はこちらで処分できますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224355Z" creationid="miurahr" creationdate="20210602T224355Z">
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001049Z" creationid="miurahr" creationdate="20210603T001049Z">
         <seg>この場所に衛生的なゴミ捨て場はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place have a water point?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020100Z" creationid="miurahr" creationdate="20210603T020100Z">
+        <seg>この場所には給水所がありますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hydrants, Extinguishers, Fire stations, and Ambulance stations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020030Z" creationid="miurahr" creationdate="20210603T020021Z">
+        <seg>消火栓、消火器、消防署、救急ステーションです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you bring your own container (such as a cooking pot and small pots), is it used to package your order?&lt;br/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T014717Z" creationid="miurahr" creationdate="20210603T014632Z">
@@ -1534,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map to show hydrants, extinguishers, fire stations, and ambulance stations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020024Z" creationid="miurahr" creationdate="20210603T020024Z">
+        <seg>消火栓、消火器、消防署消火栓、消火器、消防署、および救急ステーションを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MapComplete has been built by {contributors} and &lt;a href='https://github.com/pietervdvn/MapComplete/graphs/contributors' target='_blank'&gt;{hiddenCount} more contributors&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225838Z" creationid="miurahr" creationdate="20210602T225736Z">
@@ -1642,6 +1682,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001521Z" creationid="miurahr" creationdate="20210603T001521Z">
         <seg>このマップには、OpenStreetMapが知っているすべてのマップが表示されます。通常は、エリア、都市、または地域を示す情報ボード上の大きなマップが表示されます。たとえば、ビルボードの背面にある観光マップ、自然保護区のマップ、地域内のサイクリングネットワークのマップなどです。)&lt;br/&gt;&lt;br/&gt;マップがない場合は、このマップをOpenStreetMapに簡単にマップできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this map you can find and update hydrants, fire stations, ambulance stations, and extinguishers in your favorite neighborhoods.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020034Z" creationid="miurahr" creationdate="20210603T020034Z">
+        <seg>このマップでは、お気に入りの近隣にある消火栓、消防署、救急ステーション、消火器を検索して更新できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This place does not have a water point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020102Z" creationid="miurahr" creationdate="20210603T020102Z">
+        <seg>この場所には給水所がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This place does not have toilets</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001240Z" creationid="miurahr" creationdate="20210603T001234Z">
@@ -2554,6 +2610,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001052Z" creationid="miurahr" creationdate="20210603T001052Z">
         <seg>この場所には衛生的なゴミ捨て場がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place has a water point</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020058Z" creationid="miurahr" creationdate="20210603T020058Z">
+        <seg>この場所には給水所がある</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use this tool to add or edit pins (points of interest) to the map and provide additional details  by answering  available questions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020043Z" creationid="miurahr" creationdate="20210603T020043Z">
+        <seg>このツールを使用して、マップにピン(注視点)を追加または編集したり、利用可能な質問に答えることによって追加の詳細を提供することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use this tool to add or edit pins (points of interest) to the map and provide more data by answering the questions.&lt;br&gt;&lt;br&gt;All changes you make will automatically be saved in the global database of OpenStreetMap and can be freely re-used by others.&lt;br&gt;&lt;br&gt;For more information about the cyclofix project, go to &lt;a href='https://cyclofix.osm.be/'&gt;cyclofix.osm.be&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005856Z" creationid="miurahr" creationdate="20210603T005856Z">
@@ -3114,6 +3186,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000758Z" creationid="miurahr" creationdate="20210603T000737Z">
         <seg>近くで新しい本棚を見つけることができ、無料のOpenStreetMapアカウントを使えば、お気に入りの本棚を簡単に追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can dispose of grey water here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T023443Z" creationid="miurahr" creationdate="20210603T023443Z">
+        <seg>You can dispose of grey water here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can track your precise location (mobile only) and select layers that are relevant for you in the bottom left corner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020037Z" creationid="miurahr" creationdate="20210603T020037Z">
+        <seg>正確な位置を追跡し(モバイルのみ)、左下コーナーで関連するレイヤを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
