@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a href='mailto:{email}'&gt;{email}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005315Z" creationid="miurahr" creationdate="20210603T005315Z">
+        <seg>&lt;a href='mailto:{email}'&gt;{email}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a href='tel:{phone}'&gt;{phone}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005301Z" creationid="miurahr" creationdate="20210603T005301Z">
+        <seg>&lt;a href='tel:{phone}'&gt;{phone}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a href='{website}'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005312Z" creationid="miurahr" creationdate="20210603T005312Z">
+        <seg>&lt;a href='{website}'&gt;{website}&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;br/&gt; It is free, and always will be.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234340Z" creationid="miurahr" creationdate="20210602T225908Z">
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A map showing sport pitches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005414Z" creationid="miurahr" creationdate="20210603T005405Z">
+        <seg>スポーツ競技場を示す地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A map with playgrounds</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001539Z" creationid="miurahr" creationdate="20210603T001539Z">
@@ -302,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A shop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005229Z" creationid="miurahr" creationdate="20210603T005229Z">
+        <seg>ショップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A single place to store all geo-information?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225118Z" creationid="miurahr" creationdate="20210602T225118Z">
@@ -310,10 +350,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A sport pitch is an area where sports are played</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005429Z" creationid="miurahr" creationdate="20210603T005424Z">
+        <seg>スポーツ競技場は、スポーツが行われる場所です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add a new point?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224619Z" creationid="miurahr" creationdate="20210602T224619Z">
         <seg>新しいポイントを追加しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a new shop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005334Z" creationid="miurahr" creationdate="20210603T005327Z">
+        <seg>新しい店を追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bakery</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005254Z" creationid="miurahr" creationdate="20210603T005254Z">
+        <seg>ベーカリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Be the first to write one and help open data and the business!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230926Z" creationid="miurahr" creationdate="20210602T230926Z">
@@ -574,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Car dealer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005305Z" creationid="miurahr" creationdate="20210603T005300Z">
+        <seg>自動車ディーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Car repair (garage)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005258Z" creationid="miurahr" creationdate="20210603T005258Z">
+        <seg>自動車修理(ガレージ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose a language:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224855Z" creationid="miurahr" creationdate="20210602T224855Z">
@@ -602,6 +682,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230817Z" creationid="miurahr" creationdate="20210602T230817Z">
         <seg>{date} まで閉店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clothing store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005250Z" creationid="miurahr" creationdate="20210603T005250Z">
+        <seg>衣料品店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convenience store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005240Z" creationid="miurahr" creationdate="20210603T005240Z">
+        <seg>コンビニエンスストア</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +1034,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235214Z" creationid="miurahr" creationdate="20210602T235051Z">
         <seg>落書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hairdresser</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005252Z" creationid="miurahr" creationdate="20210603T005252Z">
+        <seg>理容師</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On this map, one can mark basic information about shops, add opening hours and phone numbers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005220Z" creationid="miurahr" creationdate="20210603T005220Z">
+        <seg>この地図には店の基本情報を記入したり営業時間や電話番号を追加することができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On this map, you find playgrounds and can add more information</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001546Z" creationid="miurahr" creationdate="20210603T001540Z">
@@ -1614,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005336Z" creationid="miurahr" creationdate="20210603T005222Z">
+        <seg>店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show the welcome message popup and associated tabs</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225929Z" creationid="miurahr" creationdate="20210602T225929Z">
@@ -1642,6 +1762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224529Z" creationid="miurahr" creationdate="20210602T224529Z">
         <seg>何かがうまくいかなかった…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sport pitches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005412Z" creationid="miurahr" creationdate="20210603T005330Z">
+        <seg>スポーツ競技場</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,6 +1810,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230724Z" creationid="miurahr" creationdate="20210602T230724Z">
         <seg>日曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supermarket</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005248Z" creationid="miurahr" creationdate="20210603T005248Z">
+        <seg>スーパーマーケット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Surveillance cameras and other means of surveillance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005440Z" creationid="miurahr" creationdate="20210603T005440Z">
+        <seg>監視カメラおよびその他の監視手段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Surveillance under Surveillance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005500Z" creationid="miurahr" creationdate="20210603T005425Z">
+        <seg>監視カメラの監視</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This shop sells {shop}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005236Z" creationid="miurahr" creationdate="20210603T005236Z">
+        <seg>こちらのお店では{shop}を販売しております。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This site collects all official camper stopover places and places where you can dump grey and black water.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000910Z" creationid="miurahr" creationdate="20210603T000910Z">
@@ -2088,8 +2248,8 @@
       <tuv lang="en">
         <seg>This theme shows all (touristic) maps that OpenStreetMap knows of</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210603T001507Z" creationid="miurahr" creationdate="20210603T001507Z">
-        <seg>このテーマには、OpenStreetMapが知っているすべての(観光)マップが表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005202Z" creationid="miurahr" creationdate="20210603T001507Z">
+        <seg>このテーマには、OpenStreetMapが知っているすべての(観光)マップが表示されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,10 +2422,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What are the opening hours of this shop?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005325Z" creationid="miurahr" creationdate="20210603T005325Z">
+        <seg>この店の営業時間は何時から何時までですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What color is the hydrant?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002205Z" creationid="miurahr" creationdate="20210603T002152Z">
         <seg>消火栓の色は何色ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What does this shop sell?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005238Z" creationid="miurahr" creationdate="20210603T005238Z">
+        <seg>このお店では何を売っていますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the email address of this shop?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005317Z" creationid="miurahr" creationdate="20210603T005317Z">
+        <seg>このお店のメールアドレスは何ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2294,10 +2478,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the name of this shop?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005232Z" creationid="miurahr" creationdate="20210603T005232Z">
+        <seg>このお店の名前は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the phone number of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225000Z" creationid="miurahr" creationdate="20210602T225000Z">
         <seg>{category} の電話番号は何番ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the phone number?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005310Z" creationid="miurahr" creationdate="20210603T005310Z">
+        <seg>電話番号は何番ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2514,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235002Z" creationid="miurahr" creationdate="20210602T234956Z">
         <seg>この作品の種類は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the website of this shop?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005314Z" creationid="miurahr" creationdate="20210603T005314Z">
+        <seg>このお店のホームページは何ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2586,6 +2794,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230913Z" creationid="miurahr" creationdate="20210602T230913Z">
         <seg>{count}個のレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005225Z" creationid="miurahr" creationdate="20210603T005225Z">
+        <seg>{name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{opening_hours_table(opening_hours)}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005321Z" creationid="miurahr" creationdate="20210603T005321Z">
+        <seg>{opening_hours_table(opening_hours)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{shop}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T005226Z" creationid="miurahr" creationdate="20210603T005226Z">
+        <seg>{shop}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
