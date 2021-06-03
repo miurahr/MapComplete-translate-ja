@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A facility where bicycles can be lent for longer period of times</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030221Z" creationid="miurahr" creationdate="20210603T030221Z">
+        <seg>自転車ライブラリは、長期に自転車を借りられる場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A fire extinguisher is a small, portable device used to stop a fire</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002404Z" creationid="miurahr" creationdate="20210603T002404Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T014618Z" creationid="miurahr" creationdate="20210603T014618Z">
         <seg>ファサード庭園を追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a new bench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030148Z" creationid="miurahr" creationdate="20210603T030148Z">
+        <seg>新しいベンチを追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +758,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backrest</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025719Z" creationid="miurahr" creationdate="20210603T025719Z">
+        <seg>背もたれ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backrest: No</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025746Z" creationid="miurahr" creationdate="20210603T025725Z">
+        <seg>背もたれ: No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backrest: Yes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025740Z" creationid="miurahr" creationdate="20210603T025740Z">
+        <seg>背もたれ: Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bakery</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005254Z" creationid="miurahr" creationdate="20210603T005254Z">
@@ -758,6 +798,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025715Z" creationid="miurahr" creationdate="20210603T025715Z">
+        <seg>ベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bench at public transport stop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030153Z" creationid="miurahr" creationdate="20210603T030153Z">
+        <seg>公共交通機関の停留所のベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bench in shelter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030156Z" creationid="miurahr" creationdate="20210603T030156Z">
+        <seg>シェルターのベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Benches</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235527Z" creationid="miurahr" creationdate="20210602T234431Z">
@@ -766,9 +830,25 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Benches at public transport stops</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030151Z" creationid="miurahr" creationdate="20210603T030151Z">
+        <seg>公共交通機関の停留所のベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bicycle libraries</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000639Z" creationid="miurahr" creationdate="20210602T235558Z">
+        <seg>自転車ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bicycle library</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030204Z" creationid="miurahr" creationdate="20210603T030204Z">
         <seg>自転車ライブラリ</seg>
       </tuv>
     </tu>
@@ -1094,6 +1174,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Colour: black</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030132Z" creationid="miurahr" creationdate="20210603T030132Z">
+        <seg>色: black</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: blue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030136Z" creationid="miurahr" creationdate="20210603T030136Z">
+        <seg>色: blue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: brown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030118Z" creationid="miurahr" creationdate="20210603T030118Z">
+        <seg>色: brown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: gray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030123Z" creationid="miurahr" creationdate="20210603T030123Z">
+        <seg>色: gray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: green</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030120Z" creationid="miurahr" creationdate="20210603T030120Z">
+        <seg>色: green</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: red</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030128Z" creationid="miurahr" creationdate="20210603T030128Z">
+        <seg>色: red</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: white</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030125Z" creationid="miurahr" creationdate="20210603T030125Z">
+        <seg>色: white</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: yellow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030138Z" creationid="miurahr" creationdate="20210603T030138Z">
+        <seg>色: yellow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour: {colour}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025947Z" creationid="miurahr" creationdate="20210603T025947Z">
+        <seg>色: {colour}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Construction date of the garden: {start_date}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T014003Z" creationid="miurahr" creationdate="20210603T013956Z">
@@ -1226,6 +1378,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001217Z" creationid="miurahr" creationdate="20210603T001217Z">
         <seg>インターネット接続にお金はかかりますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this bench have a backrest?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025749Z" creationid="miurahr" creationdate="20210603T025731Z">
+        <seg>このベンチには背もたれがありますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How many seats does this bench have?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025758Z" creationid="miurahr" creationdate="20210603T025758Z">
+        <seg>このベンチは何席あるんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How much does this place charge?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001046Z" creationid="miurahr" creationdate="20210603T001046Z">
@@ -1650,6 +1818,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234227Z" creationid="miurahr" creationdate="20210602T230148Z">
         <seg>カスタムビルドのクエストが必要な場合は、問題追跡ツールで要請してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which direction are you looking when sitting on the bench?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025916Z" creationid="miurahr" creationdate="20210603T025916Z">
+        <seg>ベンチに座っているときはどちらの方向を見ていますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +2138,62 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224456Z" creationid="miurahr" creationdate="20210602T224456Z">
         <seg>MapCompleteはOpenStreetMapのビューア兼エディタであり、特定のテーマに関する情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: concrete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025823Z" creationid="miurahr" creationdate="20210603T025823Z">
+        <seg>材質: concrete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: metal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025813Z" creationid="miurahr" creationdate="20210603T025813Z">
+        <seg>材質: metal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: plastic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025828Z" creationid="miurahr" creationdate="20210603T025828Z">
+        <seg>材質: plastic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: steel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025832Z" creationid="miurahr" creationdate="20210603T025832Z">
+        <seg>材質: steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: stone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025818Z" creationid="miurahr" creationdate="20210603T025818Z">
+        <seg>材質: stone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: wood</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025808Z" creationid="miurahr" creationdate="20210603T025808Z">
+        <seg>材質: wood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Material: {material}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025803Z" creationid="miurahr" creationdate="20210603T025803Z">
+        <seg>材質: {material}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,6 +2762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005412Z" creationid="miurahr" creationdate="20210603T005330Z">
         <seg>スポーツ競技場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stand up bench</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030158Z" creationid="miurahr" creationdate="20210603T030158Z">
+        <seg>スタンドアップベンチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This bench was last surveyed on {survey:date}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030146Z" creationid="miurahr" creationdate="20210603T030146Z">
+        <seg>このベンチは最後に{survey:date}に調査されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This climbing opportunity doesn't have a name</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024628Z" creationid="miurahr" creationdate="20210603T024628Z">
@@ -3614,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the bench (seating) made from?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025913Z" creationid="miurahr" creationdate="20210603T025913Z">
+        <seg>ベンチ (seating) は、どんな材質でできていますか？?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the email address of this shop?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005317Z" creationid="miurahr" creationdate="20210603T005317Z">
@@ -3806,10 +4062,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When sitting on the bench, one looks towards {direction}°.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025942Z" creationid="miurahr" creationdate="20210603T025942Z">
+        <seg>ベンチに座ると {direction}° を向く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When was the garden constructed?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T013959Z" creationid="miurahr" creationdate="20210603T013959Z">
         <seg>その庭園はいつ造られたのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When was this bench last surveyed?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030143Z" creationid="miurahr" creationdate="20210603T030143Z">
+        <seg>このベンチが最後に調査されたのはいつですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +4114,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235349Z" creationid="miurahr" creationdate="20210602T235349Z">
         <seg>どのアーティストが作ったんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which colour does this bench have?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T030114Z" creationid="miurahr" creationdate="20210603T030114Z">
+        <seg>このベンチは何色ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4522,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005321Z" creationid="miurahr" creationdate="20210603T005321Z">
         <seg>{opening_hours_table(opening_hours)}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{seats} seats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025756Z" creationid="miurahr" creationdate="20210603T025756Z">
+        <seg>{seats} 席数</seg>
       </tuv>
     </tu>
     <tu>
