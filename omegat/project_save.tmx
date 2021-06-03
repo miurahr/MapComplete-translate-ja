@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;b&gt;ghost bike&lt;/b&gt; is a memorial for a cyclist who died in a traffic accident, in the form of a white bicycle placed permanently near the accident location.&lt;br/&gt;&lt;br/&gt;On this map, one can see all the ghost bikes which are known by OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014858Z" creationid="miurahr" creationdate="20210603T014858Z">
+        <seg>&lt;b&gt;ゴーストバイク&lt;/b&gt;は、交通事故で死亡したサイクリストを記念するもので、事故現場の近くに恒久的に置かれた白い自転車の形をしています。&lt;br/&gt;&lt;br/&gt;このマップには、OpenStreetMapで知られているゴーストバイクがすべて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000633Z" creationid="miurahr" creationdate="20210603T000518Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005429Z" creationid="miurahr" creationdate="20210603T005424Z">
         <seg>スポーツ競技場は、スポーツが行われる場所です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add a facade garden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014618Z" creationid="miurahr" creationdate="20210603T014618Z">
+        <seg>ファサード庭園を追加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224031Z" creationid="miurahr" creationdate="20210602T224031Z">
         <seg>Brave ブラウザやUMatrixは、これらをブロックするかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bringing your own container is &lt;b&gt;not allowed&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014808Z" creationid="miurahr" creationdate="20210603T014808Z">
+        <seg>独自の容器を持参することは&lt;b&gt;できません&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everyone can add or update information here - you only need to have a (free) OpenStreetMap account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T020016Z" creationid="miurahr" creationdate="20210603T020016Z">
+        <seg>誰でもここで情報の追加や更新ができます。必要なのは(無料の)OpenStreetMapアカウントだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everyone can place or take a book.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000730Z" creationid="miurahr" creationdate="20210603T000730Z">
@@ -1166,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ghost bikes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014850Z" creationid="miurahr" creationdate="20210603T014825Z">
+        <seg>ゴーストバイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Graffiti</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235214Z" creationid="miurahr" creationdate="20210602T235051Z">
@@ -1230,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you bring your own container (such as a cooking pot and small pots), is it used to package your order?&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014717Z" creationid="miurahr" creationdate="20210603T014632Z">
+        <seg>お客様が持参容器(調理用の鍋や小さな鍋など)をもってきた場合は、注文の梱包に使用されますか?&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you change something here, it'll be reflected in those applications too - after their next update!&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225612Z" creationid="miurahr" creationdate="20210602T225612Z">
@@ -1282,6 +1330,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235046Z" creationid="miurahr" creationdate="20210602T235046Z">
         <seg>インスタレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is a ghost bike missing?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014900Z" creationid="miurahr" creationdate="20210603T014900Z">
+        <seg>ゴーストバイクは行方不明ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the name of this friture?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014624Z" creationid="miurahr" creationdate="20210603T014624Z">
+        <seg>このfritureは何という名前ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the name of this shop?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005232Z" creationid="miurahr" creationdate="20210603T005232Z">
@@ -3006,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You &lt;b&gt;must&lt;/b&gt; bring your own container to order here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014839Z" creationid="miurahr" creationdate="20210603T014824Z">
+        <seg>自身の容器が注文に&lt;b&gt;必要&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are logged in, welcome back!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224518Z" creationid="miurahr" creationdate="20210602T224518Z">
@@ -3026,6 +3098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005856Z" creationid="miurahr" creationdate="20210603T005856Z">
         <seg>このツールを使用して、マップにピン(注目点)を追加または編集したり、質問に答えることでより多くのデータを提供することもできます。&lt;br&gt;&lt;br&gt;変更内容はすべてOpenStreetMapのグローバルデータベースに自動的に保存され、他のユーザーが自由に再利用できます。&lt;br&gt;&lt;br&gt;cyclofixプロジェクトの詳細については、 &lt;a href='https://cyclofix.osm.be/'&gt;cyclofix.osm.be&lt;/a&gt; を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can bring &lt;b&gt;your own containers&lt;/b&gt; to get your order, saving on single-use packaging material and thus waste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014755Z" creationid="miurahr" creationdate="20210603T014638Z">
+        <seg>&lt;b&gt;自分の容器&lt;/b&gt;を持ってきて、注文を受け取ることができ、使い捨ての梱包材を節約して、無駄を省くことができます</seg>
       </tuv>
     </tu>
     <tu>
