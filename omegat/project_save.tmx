@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(skip if there is no obvious number of spaces or allowed vehicles)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001202Z" creationid="miurahr" creationdate="20210603T001202Z">
+        <seg>(許可された車両の数や駐車スペースが明らかでない場合は省略)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a class='activate-osm-authentication'&gt;Please log in to add a new point&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224626Z" creationid="miurahr" creationdate="20210602T224626Z">
@@ -160,8 +168,8 @@
       <tuv lang="en">
         <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210603T000518Z" creationid="miurahr" creationdate="20210603T000518Z">
-        <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000633Z" creationid="miurahr" creationdate="20210603T000518Z">
+        <seg>自転車ライブラリは、少額の年間料金で自転車を借りられる場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +194,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230918Z" creationid="miurahr" creationdate="20210602T230918Z">
         <seg>レビューを表示および作成するには名前が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A notable use case are bicycle libraries for kids, which allows them to change for a bigger bike when they've outgrown their current bike</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000650Z" creationid="miurahr" creationdate="20210603T000628Z">
+        <seg>注目すべきユースケースとしては、子供向けの自転車ライブラリで、子どもの成長にあわせて大きな自転車へ借り替えられます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A public bookcase is a small streetside cabinet, box, old phone boot or some other objects where books are stored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000728Z" creationid="miurahr" creationdate="20210603T000728Z">
+        <seg>公共の本棚とは、本が保管されている小さな街角のキャビネット、箱、古い電話のトランク、その他の物のことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +258,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223607Z" creationid="miurahr" creationdate="20210602T223607Z">
         <seg>写真の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add pictures and reviews.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000922Z" creationid="miurahr" creationdate="20210603T000916Z">
+        <seg>写真とレビューを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +360,24 @@
       <tuv lang="en">
         <seg>Bicycle libraries</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T235558Z" creationid="miurahr" creationdate="20210602T235558Z">
-        <seg>Bicycle libraries</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000639Z" creationid="miurahr" creationdate="20210602T235558Z">
+        <seg>自転車ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bike Monitoring stations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000656Z" creationid="miurahr" creationdate="20210603T000644Z">
+        <seg>自転車監視ステーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bike monitoring stations with live data from Brussels Mobility</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000706Z" creationid="miurahr" creationdate="20210603T000706Z">
+        <seg>Brussels Mobilityのライブデータを使用した自転車モニタリングステーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +394,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235030Z" creationid="miurahr" creationdate="20210602T235030Z">
         <seg>胸像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camper site {name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000950Z" creationid="miurahr" creationdate="20210603T000950Z">
+        <seg>キャンプサイト {name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camper sites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000946Z" creationid="miurahr" creationdate="20210603T000936Z">
+        <seg>キャンプサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Campersites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000805Z" creationid="miurahr" creationdate="20210603T000752Z">
+        <seg>キャンプサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can be used for free</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001028Z" creationid="miurahr" creationdate="20210603T001028Z">
+        <seg>無料で使用可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does this place charge a fee?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001024Z" creationid="miurahr" creationdate="20210603T001024Z">
+        <seg>ここは有料ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does this place have a sanitary dump station?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001049Z" creationid="miurahr" creationdate="20210603T001049Z">
+        <seg>この場所に衛生的なゴミ捨て場はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Done!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224413Z" creationid="miurahr" creationdate="20210602T224413Z">
@@ -558,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everyone can place or take a book.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000730Z" creationid="miurahr" creationdate="20210603T000730Z">
+        <seg>誰でも本を置いたり持ったりすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find sites to spend the night with your camper</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000827Z" creationid="miurahr" creationdate="20210603T000827Z">
+        <seg>キャンパーと夜を共にするキャンプサイトを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow the edit count on &lt;a href='https://osmcha.org/?filters=%7B%22date__gte%22%3A%5B%7B%22label%22%3A%222021-01-01%22%2C%22value%22%3A%222021-01-01%22%7D%5D%2C%22editor%22%3A%5B%7B%22label%22%3A%22mapcomplete%22%2C%22value%22%3A%22mapcomplete%22%7D%5D%7D' target='_blank' &gt;OsmCha&lt;/a&gt;.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230603Z" creationid="miurahr" creationdate="20210602T230603Z">
@@ -594,6 +706,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230507Z" creationid="miurahr" creationdate="20210602T230507Z">
         <seg>&lt;a href='https://github.com/pietervdvn/MapComplete' target='_blank'&gt;ソースコード&lt;/a&gt;または&lt;a href='https://github.com/pietervdvn/MapComplete/issues' target='_blank'&gt;問題追跡ツール&lt;/a&gt;に移動します。&lt;/p&gt;&lt;p&gt;&lt;b&gt;進捗状況&lt;/b&gt;を確認しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many campers can stay here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001135Z" creationid="miurahr" creationdate="20210603T001135Z">
+        <seg>ここには何人のキャンパーが泊まれますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How much does this place charge?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001046Z" creationid="miurahr" creationdate="20210603T001046Z">
+        <seg>ここはいくらかかりますか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +970,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235243Z" creationid="miurahr" creationdate="20210602T234508Z">
         <seg>オープン アートワーク マップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Bookcase Map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000718Z" creationid="miurahr" creationdate="20210603T000718Z">
+        <seg>オープン本棚マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is stored in OpenStreetMap, so it will be free forever and can be re-used by any app.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000938Z" creationid="miurahr" creationdate="20210603T000934Z">
+        <seg>データはOpenStreetMapに保存されるので、永遠に無料で、どんなアプリからでも再利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The email address of this {category} is &lt;a href='mailto:{email}' target='_blank'&gt;{email}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225050Z" creationid="miurahr" creationdate="20210602T225050Z">
@@ -1270,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is a website and a webapp.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000928Z" creationid="miurahr" creationdate="20210603T000917Z">
+        <seg>これはウェブサイトとウェブアプリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a {artwork_type}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234958Z" creationid="miurahr" creationdate="20210602T234955Z">
@@ -1278,10 +1430,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This map aims to collect all these bookcases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000745Z" creationid="miurahr" creationdate="20210603T000734Z">
+        <seg>このマップは、すべての公共の本棚を収集することを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This map shows all benches that are recorded in OpenStreetMap: Individual benches, and benches belonging to public transport stops or shelters.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235547Z" creationid="miurahr" creationdate="20210602T235547Z">
         <seg>このマップには、OpenStreetMapに記録されているすべてのベンチが表示されます。個々のベンチ、および公共交通機関の停留所または避難場所に属するベンチです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place charges {charge}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001042Z" creationid="miurahr" creationdate="20210603T001042Z">
+        <seg>この場所は{charge} が必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place does not have a sanitary dump station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001054Z" creationid="miurahr" creationdate="20210603T001054Z">
+        <seg>この場所には衛生的なゴミ捨て場がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place has a sanitary dump station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001052Z" creationid="miurahr" creationdate="20210603T001052Z">
+        <seg>この場所には衛生的なゴミ捨て場がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This place is called {name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001016Z" creationid="miurahr" creationdate="20210603T001016Z">
+        <seg>この場所は {name} と呼ばれています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This site collects all official camper stopover places and places where you can dump grey and black water.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000910Z" creationid="miurahr" creationdate="20210603T000910Z">
+        <seg>このWebサイトでは、すべてのキャンピングカーの公式停車場所と、汚水を捨てることができる場所を収集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This theme shows bike monitoring stations with live data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000709Z" creationid="miurahr" creationdate="20210603T000709Z">
+        <seg>このテーマでは、ライブデータのある自転車監視ステーションを示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1546,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230712Z" creationid="miurahr" creationdate="20210602T230702Z">
         <seg>火曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unnamed camper site</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001002Z" creationid="miurahr" creationdate="20210603T001002Z">
+        <seg>無名のキャンプサイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is this place called?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001020Z" creationid="miurahr" creationdate="20210603T001020Z">
+        <seg>ここは何というところですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Which artist created this?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235349Z" creationid="miurahr" creationdate="20210602T235349Z">
@@ -1478,10 +1702,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add details about the services provided and the cost.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000913Z" creationid="miurahr" creationdate="20210603T000913Z">
+        <seg>提供されるサービスとコストに関する詳細を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can discover new bookcases nearby and, with a free OpenStreetMap account, quickly add your favourite bookcases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000758Z" creationid="miurahr" creationdate="20210603T000737Z">
+        <seg>近くで新しい本棚を見つけることができ、無料のOpenStreetMapアカウントを使えば、お気に入りの本棚を簡単に追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You clicked somewhere where no data is known yet.&lt;br/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224622Z" creationid="miurahr" creationdate="20210602T224622Z">
         <seg>データがまだわからない場所をクリックしました。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to pay for use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001026Z" creationid="miurahr" creationdate="20210603T001026Z">
+        <seg>使用料を支払う必要がある</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1762,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224410Z" creationid="miurahr" creationdate="20210602T224410Z">
         <seg>ズーム・インしてデータを表示または編集します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>camper sites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001006Z" creationid="miurahr" creationdate="20210603T001006Z">
+        <seg>キャンプサイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1842,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223758Z" creationid="miurahr" creationdate="20210602T223758Z">
         <seg>CC-BY-ライセンスで</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{capacity} campers can use this place at the same time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T001130Z" creationid="miurahr" creationdate="20210603T001056Z">
+        <seg>{capacity} 人が同時に使用できます</seg>
       </tuv>
     </tu>
     <tu>
