@@ -158,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T000518Z" creationid="miurahr" creationdate="20210603T000518Z">
+        <seg>A bicycle library is a place where bicycles can be lent, often for a small yearly fee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A lot of applications use this data.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224810Z" creationid="miurahr" creationdate="20210602T224810Z">
         <seg>多くのアプリケーションがこのデータを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A map of benches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235529Z" creationid="miurahr" creationdate="20210602T235529Z">
+        <seg>ベンチの地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Azulejo (Spanish decorative tilework)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235317Z" creationid="miurahr" creationdate="20210602T235317Z">
+        <seg>Azulejo (スペインの装飾タイル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Background map</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230606Z" creationid="miurahr" creationdate="20210602T230606Z">
@@ -296,8 +320,16 @@
       <tuv lang="en">
         <seg>Benches</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T234431Z" creationid="miurahr" creationdate="20210602T234431Z">
-        <seg>Benches</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235527Z" creationid="miurahr" creationdate="20210602T234431Z">
+        <seg>ベンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bicycle libraries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235558Z" creationid="miurahr" creationdate="20210602T235558Z">
+        <seg>Bicycle libraries</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Corresponds with &lt;a href='https://www.wikidata.org/wiki/{wikidata}' target='_blank'&gt;{wikidata}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235524Z" creationid="miurahr" creationdate="20210602T235524Z">
+        <seg>&lt;a href='https://www.wikidata.org/wiki/{wikidata}' target='_blank'&gt;{wikidata}&lt;/a&gt;に関連する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not upload your picture.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223812Z" creationid="miurahr" creationdate="20210602T223812Z">
@@ -370,6 +410,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230220Z" creationid="miurahr" creationdate="20210602T230220Z">
         <seg>独自のMapCompleteテーマを最初から作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created by {artist_name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235355Z" creationid="miurahr" creationdate="20210602T235355Z">
+        <seg>作成者:{artist_name}</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +584,8 @@
       <tuv lang="en">
         <seg>Graffiti</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T235051Z" creationid="miurahr" creationdate="20210602T235051Z">
-        <seg>詩碑</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235214Z" creationid="miurahr" creationdate="20210602T235051Z">
+        <seg>落書き</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More information on &lt;a href='{website}' target='_blank'&gt;this website&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235434Z" creationid="miurahr" creationdate="20210602T235434Z">
+        <seg>&lt;a href='{website}' target='_blank'&gt;Webサイト&lt;/a&gt;に詳細情報がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mural</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235013Z" creationid="miurahr" creationdate="20210602T235007Z">
@@ -750,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On which website is more information about this artwork?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235358Z" creationid="miurahr" creationdate="20210602T235358Z">
+        <seg>この作品についての詳しい情報はどのウェブサイトにありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One question is skipped</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224540Z" creationid="miurahr" creationdate="20210602T224540Z">
@@ -776,8 +840,8 @@
       <tuv lang="en">
         <seg>Open Artwork Map</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T234850Z" creationid="miurahr" creationdate="20210602T234508Z">
-        <seg>オープン美術マップ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235243Z" creationid="miurahr" creationdate="20210602T234508Z">
+        <seg>オープン アートワーク マップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This map shows all benches that are recorded in OpenStreetMap: Individual benches, and benches belonging to public transport stops or shelters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235547Z" creationid="miurahr" creationdate="20210602T235547Z">
+        <seg>このマップには、OpenStreetMapに記録されているすべてのベンチが表示されます。個々のベンチ、および公共交通機関の停留所または避難場所に属するベンチです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This website uses OpenStreetMap as well.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225454Z" creationid="miurahr" creationdate="20210602T225440Z">
@@ -1234,6 +1306,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230718Z" creationid="miurahr" creationdate="20210602T230718Z">
         <seg>木曜日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tilework</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235346Z" creationid="miurahr" creationdate="20210602T235346Z">
+        <seg>Tilework</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,8 +1408,8 @@
       <tuv lang="en">
         <seg>Welcome to Open Artwork Map, a map of statues, busts, grafittis and other artwork all over the world</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210602T234918Z" creationid="miurahr" creationdate="20210602T234533Z">
-        <seg>オープン美術マップへようこそ。世界中の銅像や胸像、詩碑などの美術の地図です</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235248Z" creationid="miurahr" creationdate="20210602T234533Z">
+        <seg>オープン アートワーク マップへようこそ。世界中の銅像や胸像、壁の落書きなどのアートワークの地図です</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1442,30 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225030Z" creationid="miurahr" creationdate="20210602T225030Z">
         <seg>{category} のウェブサイトはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which artist created this?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235349Z" creationid="miurahr" creationdate="20210602T235349Z">
+        <seg>どのアーティストが作ったんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which wikidata-entry corresponds with &lt;b&gt;this artwork&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235509Z" creationid="miurahr" creationdate="20210602T235436Z">
+        <seg>&lt;b&gt;このアートワーク&lt;/b&gt;に関するwikidataのエントリーはどれですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With an OpenStreetMap account, you can map new benches or edit details of existing benches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210602T235554Z" creationid="miurahr" creationdate="20210602T235554Z">
+        <seg>OpenStreetMapアカウントを使用すると、新しいベンチをマップしたり、既存のベンチの詳細を編集したりできます。</seg>
       </tuv>
     </tu>
     <tu>
