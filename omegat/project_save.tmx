@@ -142,6 +142,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_pillar.svg" /&gt; Pillar type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002254Z" creationid="miurahr" creationdate="20210603T002235Z">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_pillar.svg" /&gt; ピラー型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_underground.svg" /&gt; Underground type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002318Z" creationid="miurahr" creationdate="20210603T002318Z">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_underground.svg" /&gt;地下式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_unknown.svg" /&gt; Pipe type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002247Z" creationid="miurahr" creationdate="20210603T002247Z">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_unknown.svg" /&gt; パイプ型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_unknown.svg" /&gt; Wall type.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002304Z" creationid="miurahr" creationdate="20210603T002304Z">
+        <seg>&lt;img style="width:15px" src="./assets/themes/hailhydrant/hydrant_unknown.svg" /&gt; 壁型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p&gt;All data is provided by &lt;a href='https://osm.org' target='_blank'&gt;OpenStreetMap&lt;/a&gt;, freely reusable under &lt;a href='https://osm.org/copyright' target='_blank'&gt;the Open DataBase License&lt;/a&gt;.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225631Z" creationid="miurahr" creationdate="20210602T225631Z">
@@ -182,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A fire extinguisher is a small, portable device used to stop a fire</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002404Z" creationid="miurahr" creationdate="20210603T002404Z">
+        <seg>消火器は、火災を止めるために使用される小型で携帯可能な装置である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A fire station is a place where the fire trucks and firefighters are located when not in operation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002136Z" creationid="miurahr" creationdate="20210603T002136Z">
         <seg>消防署は、運転していないときに消防車や消防士がいる場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hydrant is a connection point where firefighters can tap water.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002334Z" creationid="miurahr" creationdate="20210603T002334Z">
+        <seg>消火栓は消防士が水を汲み上げることができる接続点です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +514,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224031Z" creationid="miurahr" creationdate="20210602T224031Z">
         <seg>Brave ブラウザやUMatrixは、これらをブロックするかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bureau of Fire Protection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002433Z" creationid="miurahr" creationdate="20210603T002433Z">
+        <seg>消防局(消防庁)</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +846,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extinguishers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002341Z" creationid="miurahr" creationdate="20210603T002341Z">
+        <seg>消火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find sites to spend the night with your camper</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T000827Z" creationid="miurahr" creationdate="20210603T000827Z">
         <seg>キャンパーと夜を共にするキャンプサイトを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fire Station</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002409Z" creationid="miurahr" creationdate="20210603T002409Z">
+        <seg>消防署</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fire extinguisher</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002401Z" creationid="miurahr" creationdate="20210603T002349Z">
+        <seg>消火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fire hydrant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002331Z" creationid="miurahr" creationdate="20210603T002331Z">
+        <seg>消火栓</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +898,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230603Z" creationid="miurahr" creationdate="20210602T230603Z">
         <seg> &lt;a href='https://osmcha.org/?filters=%7B%22date__gte%22%3A%5B%7B%22label%22%3A%222021-01-01%22%2C%22value%22%3A%222021-01-01%22%7D%5D%2C%22editor%22%3A%5B%7B%22label%22%3A%22mapcomplete%22%2C%22value%22%3A%22mapcomplete%22%7D%5D%7D' target='_blank' &gt;OsmCha&lt;/a&gt;の編集数に従います。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Found indoors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002359Z" creationid="miurahr" creationdate="20210603T002346Z">
+        <seg>屋内にある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Found outdoors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002355Z" creationid="miurahr" creationdate="20210603T002348Z">
+        <seg>屋外にある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +970,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001046Z" creationid="miurahr" creationdate="20210603T001046Z">
         <seg>ここはいくらかかりますか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hydrant</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002150Z" creationid="miurahr" creationdate="20210603T002150Z">
+        <seg>消火栓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hydrant type: {fire_hydrant:type}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002215Z" creationid="miurahr" creationdate="20210603T002215Z">
+        <seg>消火栓のタイプ:{fire_hydrant:type}</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,10 +1054,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It might be located underground.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002336Z" creationid="miurahr" creationdate="20210603T002336Z">
+        <seg>地下にあるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leave a review…</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230929Z" creationid="miurahr" creationdate="20210602T230929Z">
         <seg>レビューを残す…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lifecycle status</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002324Z" creationid="miurahr" creationdate="20210603T002147Z">
+        <seg>ライフサイクルステータス</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +1098,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224405Z" creationid="miurahr" creationdate="20210602T224405Z">
         <seg>データをロードしています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Location: {location}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002343Z" creationid="miurahr" creationdate="20210603T002343Z">
+        <seg>場所:{location}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,10 +1158,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Map layer to show fire hydrants.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002201Z" creationid="miurahr" creationdate="20210603T002152Z">
+        <seg>消火栓を表示するマップレイヤ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map layer to show fire stations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002424Z" creationid="miurahr" creationdate="20210603T002410Z">
+        <seg>消防署を表示するためのマップレイヤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Map of ambulance stations</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002131Z" creationid="miurahr" creationdate="20210603T002131Z">
         <seg>救急ステーションの地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map of fire extinguishers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002338Z" creationid="miurahr" creationdate="20210603T002338Z">
+        <seg>消火器の地図です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map of fire stations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002408Z" creationid="miurahr" creationdate="20210603T002408Z">
+        <seg>消防署の地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map of hydrants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002148Z" creationid="miurahr" creationdate="20210603T002148Z">
+        <seg>消火栓の地図</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1766,70 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The hydrant color is red.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002211Z" creationid="miurahr" creationdate="20210603T002211Z">
+        <seg>消火栓の色は赤です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant color is unknown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002208Z" creationid="miurahr" creationdate="20210603T002208Z">
+        <seg>消火栓の色は不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant color is yellow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002210Z" creationid="miurahr" creationdate="20210603T002210Z">
+        <seg>消火栓の色は黄色です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant color is {colour}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002203Z" creationid="miurahr" creationdate="20210603T002203Z">
+        <seg>消火栓の色は{color}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant has been removed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002330Z" creationid="miurahr" creationdate="20210603T002330Z">
+        <seg>消火栓が撤去されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant is (fully or partially) working.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002326Z" creationid="miurahr" creationdate="20210603T002326Z">
+        <seg>消火栓は(完全にまたは部分的に)機能しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant is unavailable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002328Z" creationid="miurahr" creationdate="20210603T002328Z">
+        <seg>消火栓は使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The hydrant type is unknown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002217Z" creationid="miurahr" creationdate="20210603T002217Z">
+        <seg>消火栓の種類は不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The layer {layer} is not enabled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224837Z" creationid="miurahr" creationdate="20210602T224837Z">
@@ -1926,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Update the lifecycle status of the hydrant.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002322Z" creationid="miurahr" creationdate="20210603T002322Z">
+        <seg>消火栓のライフサイクルステータスを更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uploading your picture…</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T223623Z" creationid="miurahr" creationdate="20210602T223623Z">
@@ -2006,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What color is the hydrant?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002205Z" creationid="miurahr" creationdate="20210603T002152Z">
+        <seg>消火栓の色は何色ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the email address of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225043Z" creationid="miurahr" creationdate="20210602T225043Z">
@@ -2018,6 +2282,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001643Z" creationid="miurahr" creationdate="20210603T001606Z">
         <seg>この救急ステーションの名前は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the name of this fire station?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002412Z" creationid="miurahr" creationdate="20210603T002412Z">
+        <seg>この消防署の名前は何ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,10 +2334,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What type of hydrant is it?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002213Z" creationid="miurahr" creationdate="20210603T002213Z">
+        <seg>どんな消火栓なんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where is it positioned?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002345Z" creationid="miurahr" creationdate="20210603T002345Z">
+        <seg>どこにあるんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where is the station located?</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210603T001759Z" creationid="miurahr" creationdate="20210603T001605Z">
-        <seg>救急ステーションの住所は?</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T002426Z" creationid="miurahr" creationdate="20210603T001605Z">
+        <seg>このステーションの住所は?</seg>
       </tuv>
     </tu>
     <tu>
