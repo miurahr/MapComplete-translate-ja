@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A climbing opportunity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024635Z" creationid="miurahr" creationdate="20210603T024606Z">
+        <seg>登坂教室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A climbing opportunity?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024700Z" creationid="miurahr" creationdate="20210603T024700Z">
+        <seg>登坂教室？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A cyclestreet is a street where motorized traffic is not allowed to overtake a cyclist</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005656Z" creationid="miurahr" creationdate="20210603T005656Z">
@@ -782,6 +798,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bouldering is not possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024902Z" creationid="miurahr" creationdate="20210603T024902Z">
+        <seg>ここではボルダリングはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bouldering is possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024900Z" creationid="miurahr" creationdate="20210603T024900Z">
+        <seg>ボルダリングはここで可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bouldering is possible, allthough there are only a few routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024906Z" creationid="miurahr" creationdate="20210603T024906Z">
+        <seg>ボルダリングは可能ですが、いくつかのルートしかありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brave browser or UMatrix might block them.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T224031Z" creationid="miurahr" creationdate="20210602T224031Z">
@@ -954,6 +994,54 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024329Z" creationid="miurahr" creationdate="20210603T024323Z">
         <seg>クライミングジム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing is not possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024711Z" creationid="miurahr" creationdate="20210603T024711Z">
+        <seg>ここでは登ることができない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing is possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024712Z" creationid="miurahr" creationdate="20210603T024712Z">
+        <seg>ここでは登ることができる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing opportunities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024643Z" creationid="miurahr" creationdate="20210603T024552Z">
+        <seg>登坂教室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing opportunities?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024651Z" creationid="miurahr" creationdate="20210603T024651Z">
+        <seg>登坂教室？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing opportunity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024631Z" creationid="miurahr" creationdate="20210603T024557Z">
+        <seg>登坂教室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Climbing opportunity?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024656Z" creationid="miurahr" creationdate="20210603T024656Z">
+        <seg>登坂教室？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,10 +1694,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is bouldering possible here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024859Z" creationid="miurahr" creationdate="20210603T024859Z">
+        <seg>ここでボルダリングはできますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is climbing possible here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024708Z" creationid="miurahr" creationdate="20210603T024708Z">
+        <seg>ここで登坂はできますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is sport climbing possible here on fixed anchors?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025030Z" creationid="miurahr" creationdate="20210603T025030Z">
+        <seg>ここでは固定アンカー式のスポーツクライミングはできますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is the garden shaded or sunny?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T013948Z" creationid="miurahr" creationdate="20210603T013948Z">
         <seg>庭は日陰ですか、日当たりがいいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there a (unofficial) website with more informations (e.g. topos)?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024717Z" creationid="miurahr" creationdate="20210603T024717Z">
+        <seg>もっと情報のある(非公式の)ウェブサイトはありますか(例えば、topos)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there a speed climbing wall?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025140Z" creationid="miurahr" creationdate="20210603T025140Z">
+        <seg>スピードクライミングウォールはありますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1754,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005605Z" creationid="miurahr" creationdate="20210603T005605Z">
         <seg>この通りはcyclestreetですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is toprope climbing possible here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024940Z" creationid="miurahr" creationdate="20210603T024924Z">
+        <seg>ここでtoprope登坂はできますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is traditional climbing possible here (using own gear e.g. chocks)?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025103Z" creationid="miurahr" creationdate="20210603T025037Z">
+        <seg>伝統的な登山はここで可能ですか?(例えば、チョックのような独自のギアを使用して)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2510,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sport climbing is not possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025036Z" creationid="miurahr" creationdate="20210603T025036Z">
+        <seg>ここではスポーツクライミングはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sport climbing is possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025033Z" creationid="miurahr" creationdate="20210603T025033Z">
+        <seg>ここでスポーツクライミングができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sport pitches</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005412Z" creationid="miurahr" creationdate="20210603T005330Z">
@@ -2518,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difficulty is {climbing:grade:french} according to the french/belgian system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024830Z" creationid="miurahr" creationdate="20210603T024542Z">
+        <seg>フランス/ベルギーのランク評価システムによると、{climbing:grade:french}の困難度です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The email address of this {category} is &lt;a href='mailto:{email}' target='_blank'&gt;{email}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225050Z" creationid="miurahr" creationdate="20210602T225050Z">
@@ -2638,6 +2806,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The maximal difficulty is {climbing:grade:french} according to the french/belgian system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024855Z" creationid="miurahr" creationdate="20210603T024837Z">
+        <seg>フランス/ベルギーのランク評価システムでは、最大の難易度は{climbing:grade:french}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The minimal difficulty is {climbing:grade:french} according to the french/belgian system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024737Z" creationid="miurahr" creationdate="20210603T024737Z">
+        <seg>フランス語/ベルギーのシステムでは、最小の難易度は{climbing:grade:french}です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The more people using this, the more valuable it becomes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234335Z" creationid="miurahr" creationdate="20210602T225910Z">
@@ -2674,6 +2858,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225020Z" creationid="miurahr" creationdate="20210602T225020Z">
         <seg>この {category} の電話番号は&lt;a href='tel:{phone}' target='_blank'&gt;{phone}&lt;/a&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The routes are &lt;b&gt;{climbing:length}m&lt;/b&gt; long on average</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024728Z" creationid="miurahr" creationdate="20210603T024728Z">
+        <seg>ルートの長さは平均で&lt;b&gt;{climbing:length} m&lt;/b&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,10 +2982,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are {climbing:boulder} boulder routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024918Z" creationid="miurahr" creationdate="20210603T024918Z">
+        <seg> {climbing:boulder}  ボルダールートがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are {climbing:speed} speed climbing walls</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025200Z" creationid="miurahr" creationdate="20210603T025200Z">
+        <seg> {climbing:speed} のスピードクライミングウォールがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are {climbing:sport} sport climbing routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025056Z" creationid="miurahr" creationdate="20210603T025036Z">
+        <seg>スポーツクライミングの {climbing:sport}  ルートがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are {climbing:toprope} toprope routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024959Z" creationid="miurahr" creationdate="20210603T024959Z">
+        <seg> {climbing:toprope} 登坂ルートがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are {climbing:traditional} traditional climbing routes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025131Z" creationid="miurahr" creationdate="20210603T025131Z">
+        <seg> {climbing:traditional} の伝統的な登山ルートがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is a rain barrel</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T013952Z" creationid="miurahr" creationdate="20210603T013952Z">
         <seg>雨樽がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is a speed climbing wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025141Z" creationid="miurahr" creationdate="20210603T025141Z">
+        <seg>スピードクライミングウォールがある</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +3058,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T013953Z" creationid="miurahr" creationdate="20210603T013953Z">
         <seg>雨樽はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no speed climbing wall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025145Z" creationid="miurahr" creationdate="20210603T025145Z">
+        <seg>スピードクライミングウォールがない</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +3106,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024045Z" creationid="miurahr" creationdate="20210603T024045Z">
         <seg>それらは全く署名されていないかもしれませんが、自治体の決定で定義されているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This climbing opportunity doesn't have a name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024628Z" creationid="miurahr" creationdate="20210603T024628Z">
+        <seg>この登坂教室には名前がついていない</seg>
       </tuv>
     </tu>
     <tu>
@@ -3166,6 +3422,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toprope climbing is not possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025007Z" creationid="miurahr" creationdate="20210603T025007Z">
+        <seg>ここではToprope登坂はできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toprope climbing is possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024935Z" creationid="miurahr" creationdate="20210603T024935Z">
+        <seg>ここでToprope登坂ができます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional climbing is not possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025107Z" creationid="miurahr" creationdate="20210603T025107Z">
+        <seg>伝統的な登山はここではできない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional climbing is possible here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T025105Z" creationid="miurahr" creationdate="20210603T025105Z">
+        <seg>ここでは伝統的な登山が可能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trees</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001403Z" creationid="miurahr" creationdate="20210603T001403Z">
@@ -3318,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the (average) length of the routes in meters?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024732Z" creationid="miurahr" creationdate="20210603T024732Z">
+        <seg>ルートの(平均)長さはメートル単位でいくつですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the email address of this shop?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005317Z" creationid="miurahr" creationdate="20210603T005317Z">
@@ -3330,6 +3626,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225043Z" creationid="miurahr" creationdate="20210602T225043Z">
         <seg>{category} の電子メールアドレスは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the level of the easiest route here, accoring to the french classification system?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024822Z" creationid="miurahr" creationdate="20210603T024735Z">
+        <seg>ここで一番簡単なルートのレベルは、フランスのランク評価システムで何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the level of the most difficult route here, accoring to the french classification system?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024847Z" creationid="miurahr" creationdate="20210603T024836Z">
+        <seg>フランスのランク評価によると、ここで一番難しいルートのレベルはどれくらいですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3666,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T024347Z" creationid="miurahr" creationdate="20210603T024342Z">
         <seg>このクライミングジムは何という名前ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the name of this climbing opportunity?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T024614Z" creationid="miurahr" creationdate="20210603T024614Z">
+        <seg>この登坂教室の名前は何ですか?</seg>
       </tuv>
     </tu>
     <tu>
