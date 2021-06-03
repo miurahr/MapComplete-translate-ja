@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(a year is sufficient)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014019Z" creationid="miurahr" creationdate="20210603T014006Z">
+        <seg>(建設年で十分です)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(e.g. name of neighborhood, villlage, or town)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001815Z" creationid="miurahr" creationdate="20210603T001605Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234340Z" creationid="miurahr" creationdate="20210602T225908Z">
         <seg>&lt;br/&gt;無料であり、常に利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;br/&gt; Klimaan VZW and Mechelen Klimaatneutraal want to map existing and new facade gardens as an example for people who want to build their own garden or for city walkers who love nature.&lt;br/&gt;More info about the project at &lt;a href='https://klimaan.be/' target=_blank&gt;klimaan.be&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013746Z" creationid="miurahr" creationdate="20210603T013746Z">
+        <seg>&lt;br/&gt;KlimaanのVZWとMechelenのKlimaatneutraalは、自分で庭を作りたい人や自然を愛する都市の歩行者のために、既存のファサード庭園と新しいファサード庭園のマッピングしたいと考えています。&lt;br/&gt;このプロジェクトに関する詳細情報は&lt;a href='https://klimaan.be/' target=_blank&gt;klimaan&lt;/a&gt;にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are there any edible plants?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014025Z" creationid="miurahr" creationdate="20210603T014025Z">
+        <seg>食用の植物はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Artwork</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T234937Z" creationid="miurahr" creationdate="20210602T234928Z">
@@ -730,6 +754,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005250Z" creationid="miurahr" creationdate="20210603T005250Z">
         <seg>衣料品店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Construction date of the garden: {start_date}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014003Z" creationid="miurahr" creationdate="20210603T013956Z">
+        <seg>庭園の建設日: {start_date}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1054,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extra describing info about the garden (if needed and not yet described above)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014131Z" creationid="miurahr" creationdate="20210603T014131Z">
+        <seg>庭園に関する追加の説明情報(必要な場合でまだ上記に記載されていない場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Facade garden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013751Z" creationid="miurahr" creationdate="20210603T013751Z">
+        <seg>ファサード庭園</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facade gardens</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005916Z" creationid="miurahr" creationdate="20210603T005907Z">
@@ -1234,6 +1282,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235046Z" creationid="miurahr" creationdate="20210602T235046Z">
         <seg>インスタレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is the garden shaded or sunny?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013948Z" creationid="miurahr" creationdate="20210603T013948Z">
+        <seg>庭は日陰ですか、日当たりがいいですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there a water barrel installed for the garden?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013950Z" creationid="miurahr" creationdate="20210603T013950Z">
+        <seg>庭に水桶が設置されているのですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More details: {description}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014125Z" creationid="miurahr" creationdate="20210603T014125Z">
+        <seg>詳細情報: {description}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More information on &lt;a href='{website}' target='_blank'&gt;this website&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T235434Z" creationid="miurahr" creationdate="20210602T235434Z">
@@ -1650,6 +1722,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230841Z" creationid="miurahr" creationdate="20210602T230841Z">
         <seg>24時間営業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orientation: {direction} (where 0=N and 90=O)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013835Z" creationid="miurahr" creationdate="20210603T013755Z">
+        <seg>方向: {direction} (0=N で 90=O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2126,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The garden is in full sun</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013941Z" creationid="miurahr" creationdate="20210603T013846Z">
+        <seg>庭は日があたっている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The garden is in partial shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013928Z" creationid="miurahr" creationdate="20210603T013849Z">
+        <seg>庭は部分的に日陰である</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The goal of this map is to present cyclists with an easy-to-use solution to find the appropriate infrastructure for their needs.&lt;br&gt;&lt;br&gt;You can track your precise location (mobile only) and select layers that are relevant for you in the bottom left corner.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T005827Z" creationid="miurahr" creationdate="20210603T005827Z">
@@ -2206,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sun is in the shade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013936Z" creationid="miurahr" creationdate="20210603T013922Z">
+        <seg>庭は日陰である</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme maintained by {author}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225636Z" creationid="miurahr" creationdate="20210602T225636Z">
@@ -2222,10 +2326,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are edible plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014023Z" creationid="miurahr" creationdate="20210603T014009Z">
+        <seg>食用の植物がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are flowering plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014030Z" creationid="miurahr" creationdate="20210603T014030Z">
+        <seg>花を咲かせる植物がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are groundcovering plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014053Z" creationid="miurahr" creationdate="20210603T014053Z">
+        <seg>地をはう植物がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no edible plants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014022Z" creationid="miurahr" creationdate="20210603T014022Z">
+        <seg>食用植物は存在しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no reviews yet.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230920Z" creationid="miurahr" creationdate="20210602T230920Z">
         <seg>まだレビューはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are shrubs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014033Z" creationid="miurahr" creationdate="20210603T014033Z">
+        <seg>低木がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are vines</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014029Z" creationid="miurahr" creationdate="20210603T014029Z">
+        <seg>つるがある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is a rain barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013952Z" creationid="miurahr" creationdate="20210603T013952Z">
+        <seg>雨樽がある</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2402,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T001215Z" creationid="miurahr" creationdate="20210603T001215Z">
         <seg>インターネットにアクセスできない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no rain barrel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013953Z" creationid="miurahr" creationdate="20210603T013953Z">
+        <seg>雨樽はありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the orientation of the garden?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013838Z" creationid="miurahr" creationdate="20210603T013756Z">
+        <seg>庭の向きはどうなっていますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the phone number of {category}?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T225000Z" creationid="miurahr" creationdate="20210602T225000Z">
@@ -2742,10 +2918,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What kinds of plants grow here?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014026Z" creationid="miurahr" creationdate="20210603T014026Z">
+        <seg>ここではどんな植物が育つんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What type of hydrant is it?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210603T002213Z" creationid="miurahr" creationdate="20210603T002213Z">
         <seg>どんな消火栓なんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When was the garden constructed?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T013959Z" creationid="miurahr" creationdate="20210603T013959Z">
+        <seg>その庭園はいつ造られたのですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +3114,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210602T230850Z" creationid="miurahr" creationdate="20210602T230850Z">
         <seg>閉店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>facade garden</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210603T014616Z" creationid="miurahr" creationdate="20210603T014616Z">
+        <seg>ファサード庭園</seg>
       </tuv>
     </tu>
     <tu>
